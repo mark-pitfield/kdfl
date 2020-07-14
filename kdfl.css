@@ -1,0 +1,107 @@
+html {scrollbar-face-color: #2266ff; scrollbar-track-color:#000000;scrollbar-arrow-color:#ffffff;SCROLLBAR-HIGHLIGHT-COLOR: #2266ff; SCROLLBAR-SHADOW-COLOR: #2266ff;SCROLLBAR-3DLIGHT-COLOR: #2266ff; SCROLLBAR-DARKSHADOW-COLOR: #000000;}
+
+body {background:#000000;text-align: center; height: 100%; margin: 0px; padding: 0px;}
+a:link{text-decoration:none;color:#000000}a:visited{text-decoration:none;color:#444444}
+a:active{text-decoration:none;color:#000000}a:hover{text-decoration:none;color:#ffffff;background:#000000;}
+
+
+.cssbutton
+{
+position: relative;
+font-family: Tahoma, Georgia, sans-serif, helvetica, arial;
+background: url(pic/over.jpg) no-repeat;
+white-space: nowrap;
+display: block;
+width: 170px;
+height: 26px;
+margin: 0 0 3px 26px;
+padding: 0;
+}
+
+.cssbutton a
+{
+display: block;
+color: #000000;
+font-size: 12px;
+font-weight: bold;
+text-align: center;
+width: 170px;
+height: 26px;
+display: block;
+float: left;
+color: #ffffff;
+text-decoration: none;
+}
+
+.cssbutton img
+{
+width: 170px;
+height: 26px;
+border: 0
+}
+
+* html a:hover
+{
+visibility:visible
+}
+
+.cssbutton a:hover img
+{
+visibility:hidden
+}
+
+.cssbutton span
+{
+position: absolute;
+left: 5px;
+top: 5px;
+margin: 0px;
+padding: 0px;
+cursor: pointer;
+} 
+
+#all { width:800px; background:#000000; margin: 0px auto;}
+#header { width:800px;height:80px; background:#000000;}
+#subhead { width:800; height:28px; background: #000000;font-size:1px;line-height:0}
+#strip { width: 800px; height: 100px; background:#000077}
+#one {width:800; height:8px; background: #000000;font-size:1px;line-height:0}
+#bar { width:800; height:10px; background: #ff0000;font-size:1px;line-height:0}
+#two { width:800; height:8px; background: #000000;font-size:1px;line-height:0}
+#inside{ margin: 0px auto;}
+
+#content { float: left; width:580px; background:#2266ff;height: 100%;}
+
+#content2 { float: left; width:580px; background:#2244ff;height: 100%;}
+
+
+#menu {float:left; width:220px; background:#ffff44; height: 100%;}
+#one1 { clear: both; width:800; height:8px; background: #000000;font-size:1px;line-height:0}
+#bar1 { clear: both; width:800; height:10px; background: #00ff00;font-size:1px;line-height:0}
+#two1 { clear: both; width:800; height:8px; background: #000000;font-size:1px;line-height:0}
+
+
+h1.top{ line-height: 47px; font-size: 45px; color:#ffffff; font-weight:700;
+font-family:arial;text-align:center;margin-top: 20px; margin-bottom: 20}
+
+h2.hed{ line-height: 36px; font-size: 36px; color:#220066; font-weight:700;
+font-family:arial;text-align:center}
+
+h2.deh{ line-height: 20px; font-size: 26px; color:#ffffff; font-weight: 600; font-family:arial; text-align:center; margin-top: 8px; margin-bottom: 8px;}
+p.subhead{ line-height: 28px; font-size: 23px; color:#ffff00; font-weight: 500; align:center; font-family:arial;margin-left:14px; margin-top: 14px;margin-right:5px;} 
+p.subheadw{ line-height: 28px; font-size: 23px; color:#ffffff; font-weight: 500; align:center; font-family:arial;margin-left:14px; margin-top: 14px;margin-right:5px;} 
+p.subheadp{ line-height: 28px; font-size: 23px; color:#ff8282; font-weight: 500; align:center; font-family:arial;margin-left:14px; margin-top: 14px;margin-right:5px;} 
+
+p.one{ line-height: 7px; font-size: 13px; font-weight: 600; font-family:arial; text-align: center}
+
+p.two{ line-height: 18px; font-size: 16px; color:#ffffff; font-weight: 500; font-family:arial;margin-left:14px; margin-top: 14px;margin-right:5px; text-align: left} 
+p.twob{ line-height: 18px; font-size: 16px; color:#2244ff; font-weight: 500; font-family:arial;margin-left:34px; margin-top: 14px;margin-right:5px; text-align: left} 
+p.twoy{ line-height: 18px; font-size: 16px; color:#ffff00; font-weight: 500; font-family:arial;margin-left:14px; margin-top: 14px;margin-right:5px; text-align: left}   
+p.twoyc{ line-height: 18px; font-size: 16px; color:#ffff00; font-weight: 500; font-family:arial;margin-left:14px; margin-top: 14px;margin-right:5px; text-align: center}   
+
+
+
+p.three{ line-height: 19px; font-size: 17px; font-weight: 600; font-family:arial;margin-left:14px; margin-top:14px; margin-right:5px; text-align: left} 
+
+p.nine{ line-height: 20px; font-size: 20px; color:#000000; font-weight: 600; font-family:arial; text-align:center; margin-top: 20px;}
+
+
