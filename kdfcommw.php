@@ -129,7 +129,7 @@ font-weight: bold;
 <IMG src="DSCF0215x.jpg"    align="left">
 
 <!-- BRIAN GILLEY PHOTO -->
-<IMG src="DSCF0259.jpg"     align="left">
+<IMG src="DSCF0215x.jpg"     align="left">
 
 <!-- BRIAN SMITH PHOTO -->
 <IMG src="DSCF0001x.jpg"    align="left">
@@ -140,9 +140,10 @@ font-weight: bold;
 <!-- PAUL SMITH PHOTO -->
 <IMG src="DSCF0253x.jpg"    align="left">
 
- <!-- ANDY BROWN PHOTO -->
+ <!-- Lew Block PHOTO -->
+ <!--
 <IMG src="DSCF0174x.jpg"    align="left">
-
+-->
 </div>
 <!-- And These are the text details -->
 <div align="left" style="width:375px; margin-left:165px;";>
@@ -156,17 +157,17 @@ font-weight: bold;
 <p class="two">&nbsp</p>
 
 <!-- MIKE HALLETT DETAILS -->
-<p class="two">Mike Hallett - Chairman/Vice President<br>
+<p class="two">Mike Hallett - Chairman/Life Vice President<br>
                   Mobile: 07749 923079</p>
-<p class="two">Mike became Chairman in 1993. He also takes on the roles of Social Secretary and Trophies Secretary.
+<p class="two">Mike became Chairman in 1993. He also takes on the roles of Social Secretary, Trophies Secretary and General Secretary.
 </p>
 <p class="two">&nbsp</p>
 
-<!-- BRIAN GILLEY DETAILS -->
-<p class="two">Brian Gilley - General Secretary<br>
-                  Mobile: 07734 543860<br>
-                  e-mail: kdlsecretary00@gmail.com</p>
-<p class="two">Brian joined our committee in 2018 and now takes on this pivotal role.
+<!-- MIKE HALLETT DETAILS -->
+<p class="two">Mike Hallett - General Secretary<br>
+                  Mobile: 07749 923079<br>
+                  e-mail: mikekdflsecretary@aol.com</p>
+<p class="two">Mike Hallet now takes on this pivotal role.
 </p>
 <p class="two">&nbsp</p>
 
@@ -190,15 +191,15 @@ font-weight: bold;
 <p class="two">Paul Smith - Referees' Secretary<br>
                   Tel: 020 8224 0928, Mobile: 07751 095852<br>
                   e-mail: paul@kingstonanddistrict.co.uk</p>
-<p class="two">Having already been one of our referees, Paul joined the committee in 2017.
+<p class="two">Having already been one of our referees, Paul joined the committee in 2006.
 </p>
 <p class="two">&nbsp</p>
 
-<!-- ANDY BROWN DETAILS -->
-<p class="two">Andy Brown - Minutes Secretary<br>
-                  Tel: 020 8769 7471, Mobile: 07956 203362<br>
-                  e-mail: andy@kingstonanddistrict.co.uk</p>
-<p class="two">Andy took up his post in 2012 and also acts as the league's webmaster.
+<!-- Lew Block DETAILS -->
+<p class="two">Lew Block - Minutes Secretary<br>
+                  Tel: 208 542 7614, Mobile  07985 364562<br>
+                  e-mail: lewblock@hotmail.co.uk</p>
+<p class="two">Lew joined the League committee as Club Representative in 1997.
 </p>
 
 </div>
@@ -214,7 +215,7 @@ font-weight: bold;
 <p class="two">Lew Block (Thornton Heath FC)</br>Malcolm Hall (Hook Venturers FC)</p>
 
 <p class="two">Other Vice Presidents:</p>
-<p class="two">Jim Lee</br>John Nicholas</p>
+<p class="two">Jim Lee</br>John Nicholas</br>Janet Pitfield</br>Andy Holmden</br>Maurice Webb</p>
 
 </div>
 
