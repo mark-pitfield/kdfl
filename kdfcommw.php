@@ -167,7 +167,7 @@ font-weight: bold;
 <p class="two">Mike Hallett - General Secretary<br>
                   Mobile: 07749 923079<br>
                   e-mail: mikekdflsecretary@aol.com</p>
-<p class="two">Mike Hallet now takes on this pivotal role.
+<p class="two">Mike Hallett now takes on this pivotal role.
 </p>
 <p class="two">&nbsp</p>
 
