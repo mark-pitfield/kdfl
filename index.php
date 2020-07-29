@@ -128,19 +128,17 @@ font-weight: bold;
 	//  --></script> ladies and gentlemen and welcome to our website.</p>
 
 	
-      <P class="two">This is the official site of the Kingston & District Football League, which is affiliated to the Surrey County Football Association. Our clubs come from, and matches are played in, an area which covers much of South West London and Surrey. The league consists of three divisions, each with seven or eight teams. There are also four cup competitions - two for the teams in the top half of the league and two for the teams the the lower half. </br></p> 
+      <P class="two">This is the official site of the Kingston & District Football League, which is affiliated to the Surrey County Football Association. Our clubs come from, and matches are played in, an area which covers much of South West London and Surrey. The league consists of three divisions, each with upto ten teams in each. There are also four cup competitions - two for the teams in the top half of the league and two for the teams in the lower half. Added to this will be a cup competition provided by your affiliated County.</br></p> 
 
 <P class="two">Clubs wishing to join the league should print off and complete the application form and then forward it to the General Secretary. Details are available in the links on the right hand side of this page. </br></p>
+
 <p class="two">You may have found this site because you entered "players wanted" or "players needed" into a search engine. So, if you're looking for a club to join then contact a club directly. Use the relevant links on the right hand side of the page. Although our league is men's football played on Saturdays, a few of our clubs also have youth teams, veterans teams and Sunday teams. The clubs' home grounds are also included with the contact details, so you can find a club near you.</br></p>
 
 
-<p class="two">The Match Cards for league and cup matches are online, so you can download and print them off. They are on the Forms and match cards page. This are links on the right hand side of each page which you'll fimd the league's rules and bank account details.</p>
-<p class="two">The other websites links, on the right of each page, are to the FA's and various County FA's websites as well as the FA Full Time site. On the FA Full Time webpages you'll find details of fixtures and results. This link takes you direct to the Kingston & District league's pages.</p>
-<p class="two">If there are other features you would like to see on this site, or improvements you feel we can make to it, then please contact me. My e-mail address is shown on the League Committee page.</p>
-<p class="two">Thank-you.<br>Andy Brown - Webmaster</p>
+<p class="two">The Match Cards for league and cup matches are online, so you can download and print them off. They are on the "Forms and Match Cards" page. There are links on the right hand side of each page where you'll find the league's rules and bank account details. The "Results and Fixtures" link will give a full picture of the league's football programme.</p>
 
-
-
+<p class="two">The other website links on our Home page will take you to the external websites operated by the main Football authorities
+in our immediate area who have a direct connection with the KDFL. KDFL are not responsible for the content on the external sites.</p>
 
 </table>
 

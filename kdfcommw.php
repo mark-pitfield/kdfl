@@ -182,7 +182,7 @@ font-weight: bold;
 <!-- MAURICE GILLEY DETAILS -->
 <p class="two">Maurice Gilley - Registration & Fixtures Secretary<br>
                   Tel: 020 8542 2378, Mobile: 07940 555273<br>
-                  e-mail: playerregs@kingstonanddistrict.co.uk</p>
+                  e-mail: maurice-reg-fixturesKDFL@virginmedia.com</p>
 <p class="two">Maurice joined our committee in 2012 and now takes on two important roles.
 </p>
 <p class="two">&nbsp</p>
