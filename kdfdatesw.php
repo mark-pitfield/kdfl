@@ -111,25 +111,9 @@ font-weight: bold;
 
 <div id="content2" style="background-image: url(redkeeper.jpg); "><h2 class="deh"></h2>
 	
-  
-<p class="subheadw">Please Note - The dates listed below were those originally planned but because of Coronavirus are now all subject
-to change or cancellation.</p>
 
-<p class="twoy">2 April 2020<span style="color:#ffffff"> - Teck Junior Cup Final.</p>
-<p class="twoy">10 April 2020 (Good Friday) <span style="color:#ffffff"> - Teck Senior Cup Final. (see below)</p>
-<p class="twoy">14 April 2020<span style="color:#ffffff"> - General Meeting. Imber Court at 20.30.</p>
-<p class="twoy">16 April 2020<span style="color:#ffffff"> - League Junior Cup Final. (see below)</p>
-<p class="twoy">23 April 2020<span style="color:#ffffff"> - League Senior Cup Final. (see below)</p>
-<p class="twoy">30 April 2020<span style="color:#ffffff"> - Joe Hankin Shield final. (see below)</p>
-<p class="twoy">12 May 2020<span style="color:#ffffff"> - General Meeting. Imber Court at 20.30. This is also the date by which completed application forms for the 2020/21 season must be submitted to the General Secretary.</p>
 
-<p class="twoy">30 May 2020<span style="color:#ffffff"> - Presentation Night. (see below)</p>
-
-<p class="twoy">9 June 2020<span style="color:#ffffff"> - Annual General Meeting. Imber Court at 20.00. Note - This is an earlier time than for other General Meetings.</p>
-<p class="two">Cup/Shield finals are held at Molesey FC's ground, Walton Road, Walton KT8 2JG. If travelling by train/bus then go by train to either Kingston or Hampton Court stations. Then by TfL bus route 411, in direction of West Molesey, to Spreighton Road stop - a short walk away. Weather and pitch conditions may mean changes. sometimes at short notice, to the dates of the Cup/shield Finals listed above.</p>
-
-<p class="two">Presentation Night to be held at Surbiton Golf Club, Woodstock Lane, Chessington KT9 1UG. This year it will be held on a Saturday starting at 19:30. If travelling by train/bus this will involve a walk of about 25 minutes from the Hook Parade stop on TfL bus route 71 or 465. These bus routes serve Surbiton station. Check TfL website for details of walking route from Hook Parade to venue. If you're getting a Taxi/Uber/Car hire then Chessington North is the nearest station.</p>
-
+<p class="twoy">25 August 2020 <span style="color:#ffffff">Annual General Meeting at Imber Court at 20.00. Note this is an earlier time than for other General Meetings.</p>
 
 </table>
 &nbsp
