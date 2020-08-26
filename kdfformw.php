@@ -117,7 +117,7 @@ font-weight: bold;
   
 <p class="two">Click one of the links below to print off the required form.</p>
 <p class="two">New and Existing KDFL clubs need to complete and return the Application Form. New clubs need to complete and return New Club Details.</p>
-<p class="two">IF YOU HAVE RECENTLY UPGRADED TO WINDOWS 10 and are using Windows Edge as your browser you may have difficulty in processing the documents below. You will probably need to revert to using Internet Explorer, which should still be on your computer but not as your default browser.</p>
+
 <div class="cssbutton">
 <a href="applform.pdf"><img src="down2.jpg" alt="APPLICATION FORM" /><span>APPLICATION FORM</span></a>
 </div>
@@ -144,8 +144,10 @@ font-weight: bold;
 <a href="agreement.pdf"><img src="down2.jpg" alt="AGREEMENT FORM" /><span>AGREEMENT FORM</span></a>
 </div>
 
-
-
+<p class="two">A guide to the Whole Game System Player Registration</p>
+<div class="cssbutton">
+<a href="WGS-Guide to Player Registration.pdf"><img src="down2.jpg" alt="WGS Guide to Player Registration" /><span>WGS - Guide Player Reg.</span></a>
+</div>
 
 </table>
 
