@@ -72,7 +72,7 @@ if ($intlink==$ohsix) {goto tagg;}
 ?>
 <html>
 <div class="cssbutton">
-<a href="kdfclubs06.php"><img src="down.jpg" alt="Find a club (E-O)" /><span>FIND A CLUB (E-O)</span></a>
+<a href="kdfclubs06.php"><img src="down.jpg" alt="Find a club (E-O)" /><span>FIND A CLUB (E-L)</span></a>
 </div> 
 </html>
 <?php
@@ -82,7 +82,7 @@ if ($intlink==$oheight) {goto tagi;}
 ?>
 <html>
 <div class="cssbutton">
-<a href="kdfclubs08.php"><img src="down.jpg" alt="Find a club (P-S)" /><span>FIND A CLUB (P-S)</span></a>
+<a href="kdfclubs08.php"><img src="down.jpg" alt="Find a club (P-S)" /><span>FIND A CLUB (M-R)</span></a>
 </div>
 </html>
 <?php
@@ -92,7 +92,7 @@ if ($intlink==$ohnine) {goto tagj;}
 ?>
 <html>
 <div class="cssbutton">
-<a href="kdfclubs09.php"><img src="down.jpg" alt="Find a club (T-Z)" /><span>FIND A CLUB (T-Z)</span></a>
+<a href="kdfclubs09.php"><img src="down.jpg" alt="Find a club (T-Z)" /><span>FIND A CLUB (S-Z)</span></a>
 </div>
 </html>
 <?php

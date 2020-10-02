@@ -1,0 +1,188 @@
+<?php
+session_start();
+?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<meta name="format-detection" content="telephone=no">
+<head>
+<title>Kingston & District Football League.....</title>
+<link rel="stylesheet" type="text/css"href="kdfl.css" />
+
+<style type="text/css">
+<?php
+$_SESSION['linkno'] = '05';
+?>
+table.place
+{margin-left: 42px;
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif ;
+font-weight: normal;
+font-size: 12px;
+color: #ffffff;
+width: 500px;
+background-color: #606060;
+border: 0px;
+border-collapse: collapse;
+border-spacing: 0px;}
+
+table.place td
+{background-color: #C0C0C0;
+color: #000000;
+font-size: 20px;
+padding: 4px;
+text-align: center;
+border: 1px #fff solid;}
+
+table.place td.hed
+{background-color: #333333;
+color: #ffffff;
+padding: 4px;
+text-align: center;
+border-bottom: 2px #fff solid;
+font-size: 20px;
+font-weight: bold;}
+
+
+table.bt
+{margin-left: 42px;
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif ;
+font-weight: normal;
+color: #ffffff;
+width: 500px;
+background-color: #cococo;
+border: 0px;
+border-collapse: collapse;
+border-spacing: 0px;}
+
+table.bt td
+{background-color: #ee0000;
+color:#eeee00;
+font-size:36px;
+font-weight:700;
+padding: 4px;
+text-align: center;
+border: 1px #fff solid;}
+
+table.bt td.hed
+{background-color: #333333;
+color: #ffffff;
+padding: 4px;
+font-size: 12px;
+text-align: center;
+border-bottom: 2px #fff solid;
+font-size: 20px;
+font-weight: bold;
+}
+
+ td#box a:link {color:#eeee00;background:#ee0000;}
+ td#box a:visited {color:#eeee00;background:#ee0000;}
+ td#box a:hover {color:#eeee00;background:#ee0000;}
+ td#box a:active {color:#eeee00;background:#ee0000;}
+
+
+
+</style>
+
+</head>
+
+
+<body>
+<!-- <IMG STYLE="position:absolute; TOP:135px; LEFT:170px; WIDTH:350px; HEIGHT:350px" SRC="bluekings.jpg"> -->
+<div id="all">
+
+	<div id="header"><h1 class="top">Kingston & District Football League</h1></div>
+
+	<div id="one">&nbsp</div>
+
+	<div id="strip"><IMG src="DSCF0200.jpg"><IMG src="DSCF0196c.jpg"><IMG src="DSCF0194c.jpg"><IMG src="DSCF0105.jpg"><IMG src="kdflbadgex.jpg"><IMG src="DSCF0202x.jpg"><IMG src="DSCF0245xes"><IMG src="bctrainc.jpg"><IMG src="wolves1.jpg">
+</div>
+	<!-- Below is the red bar and the black bars above and below it -->
+	<div id="one">&nbsp</div>
+	<div id="bar">&nbsp</div>
+	<div id="two">&nbsp</div>
+
+	<div id="inside"style="height: 890px;">
+        <!-- 890px is distance between red and green bars -->
+	<div id="content2" style="background-image: url(bluekings.jpg); "><h2 class="deh"></h2>
+
+<p class="subhead">These are the contacts at the clubs in our league</p>
+
+<p class="twoy">AFC Malden ( Surrey - Div. One. )                      <br>
+Secretary:   Joe Pollicott<br>
+Mobile:  07725 054384  email:  afcmalden@gmail.com<br>
+Ground:  Manor Park,  New Malden,  Surrey, KT3 6AU       <br>
+Colours:  Green/Black<br></p>
+<p class="twoy">Barnslake  ( Surrey - Div. One. )<br>
+Secretary:  Denis Holley<br>
+Mobile:  07305 897307  email:  denisholley@blueyonder.co.uk<br>
+Ground:    King George’s Field, Ham Street, Richmond, TW10 7RS<br>
+Colours:  Red/White<br></p>
+<p class="twoy">CS Lions ( Surrey - Div. One. ) <br>
+Secretary:  Paul Loughran<br>
+Mobile:  07522 463267  email:  pauldloughran@outlook.com<br>
+Ground:  Long Ditton Rec. Windmill Lane, Long Ditton, KT6 5JT<br>
+Colours:  Black/White<br></p>
+<p class="twoy">Double H    ( Surrey - Prem. Div. )<br>
+Secretary: Sam Keenan<br>
+Mobile:   07948 798128  email:  samkeenan6@hotmail.com<br>
+Ground:  Weston Green, Longmead Road, Thames Ditton, KT7 0JF<br>
+Colours:  Grey/Black<br></p>
+<p class="twoy">Dynamo Kingston  ( Surrey - Div. One. )<br>
+Secretary:  Simon Wilkins<br>
+Mobile:  07542 556138  email:  simon_fulham@hotmail.com<br>
+Ground:  Long Ditton Rec.  Windmill Lane, Long Ditton,  KT6 5JT<br>
+Colours:  Green/Black<br></p>
+
+
+
+
+
+</table>
+
+&nbsp
+
+</div>
+
+	<div id="menu" >
+	 <P class="nine">OTHER PAGES</P>
+<?php
+include 'intnllinks.php';
+?>
+
+ <br/>
+ <hr noshade align=center size=6 color="#ff6600" width=218>
+ <P class="nine">OTHER WEBSITES</P>
+<?php
+include 'extnllinks.php';
+?>
+</div>
+	<!-- Below is the green bar and the black above and below it -->
+	<div id="one1">&nbsp</div>
+	<div id="bar1">&nbsp</div>
+	<div id="two1">&nbsp</div>
+
+
+
+</div>
+
+</body>
+
+</html>
+<script>
+var repeat=1
+var title=document.title
+var leng=title.length
+var start=1
+function titlemove() {
+  titl=title.substring(start, leng) + title.substring(0, start)
+  document.title=titl
+  start++
+  if (start==leng+1) {
+    start=0
+    if (repeat==0)
+    return
+  }
+  setTimeout("titlemove()",200)
+}
+if (document.title)
+titlemove()
+</script>
