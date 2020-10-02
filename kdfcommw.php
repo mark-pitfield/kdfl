@@ -137,9 +137,9 @@ font-weight: bold;
 <!-- MAURICE GILLEY PHOTO -->
 <IMG src="DSCF0214x.jpg"    align="left"> 
 
-<!-- PAUL SMITH PHOTO -->
+<!-- Barry Tribe PHOTO 
 <IMG src="DSCF0253x.jpg"    align="left">
-
+-->
  <!-- Lew Block PHOTO -->
  <!--
 <IMG src="DSCF0174x.jpg"    align="left">
@@ -187,11 +187,11 @@ font-weight: bold;
 </p>
 <p class="two">&nbsp</p>
 
-<!-- PAUL SMITH DETAILS -->
-<p class="two">Paul Smith - Referees' Secretary<br>
-                  Tel: 020 8224 0928, Mobile: 07751 095852<br>
-                  e-mail: paul@kingstonanddistrict.co.uk</p>
-<p class="two">Having already been one of our referees, Paul joined the committee in 2006.
+<!-- Barry Tribe DETAILS -->
+<p class="two">Barry Tribe - Referees' Secretary<br>
+                  Mobile: 07986 596 723<br>
+                  e-mail: refs-sec@kingstonanddistrict.co.uk</p>
+<p class="two">Having already been one of our referees, Barry joined the committee in 2020.
 </p>
 <p class="two">&nbsp</p>
 
