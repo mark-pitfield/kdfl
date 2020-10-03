@@ -102,20 +102,23 @@ font-weight: bold;
 
 
 <p class="twoy">New Elm  ( Surrey - Prem. Div. )<br>
-Secretary:  Callum Folfe<br>
+Secretary:  Callum Rolfe<br>
 Mobile:  07824 810579  email:  newelmfc@gmail.com<br>
 Ground:  Richard Challoner School, Manor Drive North, New Malden, KT3 5PE<br>
 Colours;  Turquoise<br></p>
+
 <p class="twoy">Old Isleworthians     ( Amateur Football Alliance - Prem. Div. )<br>
 Secretary:    Steve Smith<br>
 Mobile:  07785 720353  email: stsmith1115@gmail.com  <br>
 Ground:  Memorial Ground, 22A Wood Lane, Isleworth  TW7 5ED      <br>
 Colours:  Red/Black<br></p>
-<p class="twoy">Old Isleworthians  ( Amateur Alliance - Div. One. )<br>
+
+<p class="twoy">Old Isleworthians Res. ( Amateur Football Alliance - Div. One. )<br>
 Secretary:  Steve Smith<br>
 Mobile:  07785 720353  email:  stsmith1115@gmail.com<br>
 Ground:  Memorial Ground, 22A Wood Lane, Isleworth, TW7 5ED<br>
-Colours:  Blue/Black      <br></p>
+Colours: Red/Black      <br></p>
+
 <p class="twoy">Petersham Pumas  ( Surrey - Prem. Div. )   <br>
 Secretary:  Kevin Snares<br>
 Mobile:     07396 560009  email:  kevinsnares524@gmail.com<br>

@@ -109,22 +109,26 @@ font-weight: bold;
 Secretary:  Connor Lasic<br>
 Mobile:  07774 071824  email:  connorlasic288@gmail.com<br>
 Ground:  Dundonald Rec. Dundonald Road, Wimbledon, SW19 3QH<br>
-Colours:  Orange/White<br></p>
+Colours:  Purple<br></p>
+
 <p class="twoy">Teddington  ( Amateur Football Alliance - Prem. Div. )<br>
 Secretary:  Neil Mason<br>
 Mobile:  07951 059288  email:  neiljamesmason@googlemail.com<br>
 Ground:  Feltham Community College, Browells Lane, Feltham, TW13 7EF<br>
 Colours:  Red/Black<br></p>
+
 <p class="twoy">Thornton Heath  ( Surrey - Div. One. )<br>
 Secretary:  Lew Block<br>
 Mobile:  07985 364562  email:  lewblock@hotmail.co.uk<br>
 Ground:  Nursery Road Playing Field, South Wimbledon, SW19 3BT<br>
 Colours:  Red/Black<br></p>
+
 <p class="twoy">Woking    ( Surrey - Prem. Div. )                          <br>
 Secretary:  Shoib Qadir<br>
 Mobile:  07548 794031  email: wokingunited@gmail.com<br>
 Ground:  West Byfleet Rec. 13 Camphill, West Byfleet, KT14 6EG<br>
 Colours:  Green/Black<br></p>
+
 &nbsp
 
 </div>

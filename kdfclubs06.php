@@ -122,8 +122,8 @@ Ground:  King George’s Field,  Richmond,  TW10 7RS      <br>
 Colours:  Purple<br></p>
 <p class="twoy">Hampton Town ( Surrey - Prem. Div. )<br>
 Secretary: Greg Stanworth<br>
-Mobile:  07710 647721  email:greg.stanworth@greenacres.co.uk<br>
-Ground:  TBA<br>
+Mobile:  07710 647721  email:greg.stanworth@greenacrefs.co.uk<br>
+Ground:  Arnold School, Kingston Road, Staines, TW18 1PF<br>
 Colours:  Blue/Black<br></p>
 <p class="twoy">Hook Venturers  ( Surrey - Div. One. )             <br>
 Secretary:  Malcolm Hall<br>
@@ -133,7 +133,7 @@ Colours:  Maroon<br></p>
 <p class="twoy">Kempton Athletic   ( Surrey - Div. One. )           <br>
 Secretary:   Jack Crawford<br>
 Mobile:  07496 091670  email:  jackcrawford@hotmail.co.uk<br>
-Ground:  Meadhurst, Chertsey Road,  Sunbury on Thames  TW16 7LN     <br>
+Ground:  Feltham Community College, Browells Lane, Feltham, TW13 7EF     <br>
 Colours:   Grey<br></p>
 
 </table>

@@ -197,7 +197,7 @@ font-weight: bold;
 
 <!-- Lew Block DETAILS -->
 <p class="two">Lew Block - Minutes Secretary<br>
-                  Tel: 208 542 7614, Mobile  07985 364562<br>
+                  Tel: 0208 542 7614, Mobile  07985 364 562<br>
                   e-mail: lewblock@hotmail.co.uk</p>
 <p class="two">Lew joined the League committee as Club Representative in 1997.
 </p>
