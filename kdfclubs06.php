@@ -8,8 +8,8 @@ session_start();
 <head>
 <title>Kingston & District Football League.....</title>
 
-<link rel="stylesheet" type="text/css"href="kdfl.css" /> 
-<style type="text/css"> 
+<link rel="stylesheet" type="text/css"href="kdfl.css" />
+<style type="text/css">
 <?php
 $_SESSION['linkno'] = '06';
 ?>
@@ -41,7 +41,7 @@ padding: 4px;
 text-align: center;
 border-bottom: 2px #fff solid;
 font-size: 20px;
-font-weight: bold;} 
+font-weight: bold;}
 
 
 table.bt
@@ -74,12 +74,12 @@ border-bottom: 2px #fff solid;
 font-size: 20px;
 font-weight: bold;
 }
- 
+
  td#box a:link {color:#eeee00;background:#ee0000;}
  td#box a:visited {color:#eeee00;background:#ee0000;}
  td#box a:hover {color:#eeee00;background:#ee0000;}
  td#box a:active {color:#eeee00;background:#ee0000;}
- 
+
 </style>
 
 </head>
@@ -123,7 +123,7 @@ Colours:  Purple<br></p>
 <p class="twoy">Hampton Town ( Surrey - Prem. Div. )<br>
 Secretary: Greg Stanworth<br>
 Mobile:  07710 647721  email:greg.stanworth@greenacrefs.co.uk<br>
-Ground:  Arnold School, Kingston Road, Staines, TW18 1PF<br>
+Ground:  Matthew Arnold School, Kingston Road, Staines, TW18 1PF<br>
 Colours:  Blue/Black<br></p>
 <p class="twoy">Hook Venturers  ( Surrey - Div. One. )             <br>
 Secretary:  Malcolm Hall<br>

@@ -43,7 +43,7 @@ padding: 4px;
 text-align: center;
 border-bottom: 2px #fff solid;
 font-size: 20px;
-font-weight: bold;} 
+font-weight: bold;}
 
 
 table.bt
@@ -76,12 +76,12 @@ border-bottom: 2px #fff solid;
 font-size: 20px;
 font-weight: bold;
 }
- 
+
  td#box a:link {color:#eeee00;background:#ee0000;}
  td#box a:visited {color:#eeee00;background:#ee0000;}
  td#box a:hover {color:#eeee00;background:#ee0000;}
  td#box a:active {color:#eeee00;background:#ee0000;}
- 
+
 
 
 </style>
@@ -99,21 +99,28 @@ font-weight: bold;
 
 	<div id="strip"><IMG src="IMG_0767x.jpg"><IMG src="DSCF0245xes.jpg"><IMG src="DSCF0200.jpg"><IMG src="DSCF0209x.jpg"><IMG src="kdflbadgex.jpg"><IMG src="bctrainc.jpg"><IMG src="DSCF0196c.jpg"><IMG src="DSCF0211x.jpg"><IMG src="wolves2.jpg">
 </div>
-	
+
 	<div id="one">&nbsp</div>
 	<div id="bar">&nbsp</div>
 	<div id="two">&nbsp</div>
 
 	<div id="inside"style="height: 770px;">
 
-	
+
 
 
 <div id="content2" style="background-image: url(redkeeper.jpg); "><h2 class="deh"></h2>
-	
 
 
-<p class="twoy">25 August 2020 <span style="color:#ffffff">Annual General Meeting at Imber Court at 20.00. Note this is an earlier time than for other General Meetings.</p>
+
+<p class="twoy">Tuesday 22 September 2020 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
+<p class="twoy">Tuesday 24 November 2020 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
+<p class="twoy">Tuesday 16 Febuary 2021 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
+<p class="twoy">Tuesday 20 April 2021 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
+<p class="twoy">Tuesday 18 May 2021 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
+
+<p class="twoy">Tuesday 15 June 2021 <span style="color:#ffffff"><strong>Annual General Meeting</strong> Mandatory for all clubs at Imber Court at 20.00<p> 
+
 
 </table>
 &nbsp
