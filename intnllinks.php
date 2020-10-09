@@ -63,7 +63,7 @@ if ($intlink==$ohfive) {goto tagf;}
 <html>
 <div class="cssbutton">
 <a href="kdfclubs05.php"><img src="down.jpg" alt="Find a club (A-D)" /><span>FIND A CLUB (A-D)</span></a>
-</div> 
+</div>
 </html>
 <?php
 tagf:
@@ -73,7 +73,7 @@ if ($intlink==$ohsix) {goto tagg;}
 <html>
 <div class="cssbutton">
 <a href="kdfclubs06.php"><img src="down.jpg" alt="Find a club (E-O)" /><span>FIND A CLUB (E-L)</span></a>
-</div> 
+</div>
 </html>
 <?php
 tagg:
@@ -110,7 +110,7 @@ tagk:
 
 if ($intlink==$oneone) {goto tagl;}
 ?>
-<html> 
+<html>
 <div class="cssbutton">
 <a href="kdfdatesw.php"><img src="down.jpg" alt="Dates to remember" /><span>DATES TO REMEMBER</span></a>
 </div>
@@ -120,7 +120,7 @@ tagl:
 
 if ($intlink==$onetwo) {goto tagm;}
 ?>
-<html> 
+<html>
 <div class="cssbutton">
 <a href="kdfwinnersw.php"><img src="down.jpg" alt="Winners & Runners-up" /><span>WINNERS/RUNNERS-UP</span></a>
 </div>
@@ -130,7 +130,7 @@ tagm:
 
 if ($intlink==$onethree) {goto tagn;}
 ?>
-<html> 
+<html>
 <div class="cssbutton">
 <a href="kdfhintsw.php"><img src="down.jpg" alt="Bank account details" /><span>BANK ACCOUNT DETAILS</span></a>
 </div>
@@ -140,7 +140,7 @@ tagn:
 
 if ($intlink==$onefour) {goto tago;}
 ?>
-<html> 
+<html>
 <div class="cssbutton">
 <a href="kdfrulesw.php"><img src="down.jpg" alt="League rules" /><span>LEAGUE RULES</span></a>
 </div>
@@ -150,7 +150,7 @@ tago:
 
 if ($intlink==$onefive) {goto tagp;}
 ?>
-<html> 
+<html>
 <div class="cssbutton">
 <a href="kdffixesw.php"><img src="down.jpg" alt="Results & fixtures" /><span>RESULTS & FIXTURES</span></a>
 </div>
@@ -160,9 +160,10 @@ tagp:
 
 if ($intlink==$onesix) {goto tagq;}
 ?>
-<html> 
+<html>
 <div class="cssbutton">
-<a href="kdffeesw.php"><img src="down.jpg" alt="Summary of fees/fines" /><span>SUMMARY OF FEES/FINES</span></a>
+
+<a href="kdflrules.pdf#page=27" target="_blank"><img src="down.jpg"  alt="Summary of fees and fines"><span>Summary Of Fees and Fines</span></a>
 </div>
 </html>
 <?php
