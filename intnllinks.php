@@ -118,15 +118,7 @@ if ($intlink==$oneone) {goto tagl;}
 <?php
 tagl:
 
-if ($intlink==$onetwo) {goto tagm;}
-?>
-<html>
-<div class="cssbutton">
-<a href="kdfwinnersw.php"><img src="down.jpg" alt="Winners & Runners-up" /><span>WINNERS/RUNNERS-UP</span></a>
-</div>
-</html>
-<?php
-tagm:
+
 
 if ($intlink==$onethree) {goto tagn;}
 ?>
