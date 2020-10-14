@@ -43,7 +43,7 @@ padding: 4px;
 text-align: center;
 border-bottom: 2px #fff solid;
 font-size: 20px;
-font-weight: bold;} 
+font-weight: bold;}
 
 
 table.bt
@@ -76,12 +76,12 @@ border-bottom: 2px #fff solid;
 font-size: 20px;
 font-weight: bold;
 }
- 
+
  td#box a:link {color:#eeee00;background:#ee0000;}
  td#box a:visited {color:#eeee00;background:#ee0000;}
  td#box a:hover {color:#eeee00;background:#ee0000;}
  td#box a:active {color:#eeee00;background:#ee0000;}
- 
+
 
 
 </style>
@@ -99,7 +99,7 @@ font-weight: bold;
 
 	<div id="strip"><IMG src="IMG_0767x.jpg"><IMG src="DSCF0196c.jpg"><IMG src="DSCF0194c.jpg"><IMG src="DSCF0193c.jpg"><IMG src="kdflbadgex.jpg"><IMG src="pumakings.jpg"><IMG src="DSCF0200.jpg"><IMG src="bctrainc.jpg"><IMG src="DSCF0202x.jpg">
 </div>
-	
+
 	<div id="one">&nbsp</div>
 	<div id="bar">&nbsp</div>
 	<div id="two">&nbsp</div>
@@ -113,8 +113,8 @@ font-weight: bold;
 
 
 
-	
-  
+
+
 <p class="two">Click one of the links below to print off the required form.</p>
 <p class="two">New and Existing KDFL clubs need to complete and return the Application Form. New clubs need to complete and return New Club Details.</p>
 
@@ -122,9 +122,7 @@ font-weight: bold;
 <a href="applform.pdf"><img src="down2.jpg" alt="APPLICATION FORM" /><span>APPLICATION FORM</span></a>
 </div>
 
-<div class="cssbutton">
-<a href="newclubqa.pdf"><img src="down2.jpg" alt="NEW CLUB DETAILS" /><span>NEW CLUB DETAILS</span></a>
-</div>
+
 
 <div class="cssbutton">
 <a href="playregform.pdf"><img src="down2.jpg" alt="PLAYER REG. FORM" /><span>PLAYER REG. FORM</span></a>
