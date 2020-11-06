@@ -1,4 +1,4 @@
-<FilesMatch "\.(mp4|pdf)$">
+<FilesMatch "(?i)^.*\.(mp4|pdf)$">
     <IfModule mod_expires.c>
         ExpiresActive Off
     </IfModule>
