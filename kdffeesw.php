@@ -209,7 +209,7 @@ font-weight: bold;
       <tr class="feehead">
         <th width="5%" >Rule</th>
         <th width="75%" >Fines Tariff - Description</th>
-        <th width="20%" class="feeheadfee" >Max Fee</th>
+        <th width="20%" class="feeheadfee" >Max Fine</th>
       </tr>
       <tr class="feedata">
         <td>2G</td>

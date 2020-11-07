@@ -10,10 +10,10 @@ session_start();
 <head>
 <title>Kingston & District Football League.....</title>
 
-<link rel="stylesheet" type="text/css"href="kdfl.css" /> 
+<link rel="stylesheet" type="text/css"href="kdfl.css" />
 
 
-<style type="text/css"> 
+<style type="text/css">
 </html>
 <?php
 $_SESSION['linkno'] = '02'
@@ -47,7 +47,7 @@ padding: 4px;
 text-align: center;
 border-bottom: 2px #fff solid;
 font-size: 20px;
-font-weight: bold;} 
+font-weight: bold;}
 
 
 table.bt
@@ -80,12 +80,12 @@ border-bottom: 2px #fff solid;
 font-size: 20px;
 font-weight: bold;
 }
- 
+
  td#box a:link {color:#eeee00;background:#ee0000;}
  td#box a:visited {color:#eeee00;background:#ee0000;}
  td#box a:hover {color:#eeee00;background:#ee0000;}
  td#box a:active {color:#eeee00;background:#ee0000;}
- 
+
 
 
 </style>
@@ -120,7 +120,7 @@ font-weight: bold;
 <p class="twoy">If you are contacting a committee member on behalf of an existing member club and you are sending an e-mail then use your club name as the e-mail subject.</p></br>
 
 <!-- These are the photgraphs, They are 120 pixels wide -->
-<div align="left" style="width:155px; margin-left:35px;";> 
+<div align="left" style="width:155px; margin-left:35px;";>
 
 <!-- FRANK GARDINER PHOTO -->
 <IMG src="DSCF0212x.jpg"    align="left">
@@ -135,15 +135,15 @@ font-weight: bold;
 <IMG src="DSCF0001x.jpg"    align="left">
 
 <!-- MAURICE GILLEY PHOTO -->
-<IMG src="DSCF0214x.jpg"    align="left"> 
+<IMG src="DSCF0214x.jpg"    align="left">
 
-<!-- Barry Tribe PHOTO 
-<IMG src="DSCF0253x.jpg"    align="left">
--->
+<!-- Barry Tribe PHOTO -->
+<IMG src="unnamed.jpg"   style="width:120px;height:157px;" align="left">
+
  <!-- Lew Block PHOTO -->
- <!--
-<IMG src="DSCF0174x.jpg"    align="left">
--->
+
+<IMG src="unnamed.jpg"  style="width:120px;height:157px;"  align="left">
+
 </div>
 <!-- And These are the text details -->
 <div align="left" style="width:375px; margin-left:165px;";>
@@ -206,7 +206,7 @@ font-weight: bold;
 &nbsp
 
 <!-- DETAILS OF OTHER COMMITTEE MEMBERS -->
-<div align="left" style="width:530px; margin-left:35px;";> 
+<div align="left" style="width:530px; margin-left:35px;";>
 <p class="two">&nbsp</p>
 
 <p class="two">Club Representatives:</p>

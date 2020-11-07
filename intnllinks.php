@@ -155,7 +155,7 @@ if ($intlink==$onesix) {goto tagq;}
 <html>
 <div class="cssbutton">
 
-<a href="kdflrules.pdf#page=27" target="_blank"><img src="down.jpg"  alt="Summary of fees and fines"><span>Summary Of Fees and Fines</span></a>
+<a href="kdffeesw.php"><img src="down.jpg"  alt="Summary of fees and fines"><span>Summary Of Fees and Fines</span></a>
 </div>
 </html>
 <?php
