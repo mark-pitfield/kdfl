@@ -58,7 +58,7 @@ top: 5px;
 margin: 0px;
 padding: 0px;
 cursor: pointer;
-} 
+}
 
 #all { width:800px; background:#000000; margin: 0px auto;}
 #header { width:800px;height:80px; background:#000000;}
@@ -87,21 +87,19 @@ h2.hed{ line-height: 36px; font-size: 36px; color:#220066; font-weight:700;
 font-family:arial;text-align:center}
 
 h2.deh{ line-height: 20px; font-size: 26px; color:#ffffff; font-weight: 600; font-family:arial; text-align:center; margin-top: 8px; margin-bottom: 8px;}
-p.subhead{ line-height: 28px; font-size: 23px; color:#ffff00; font-weight: 500; align:center; font-family:arial;margin-left:14px; margin-top: 14px;margin-right:5px;} 
-p.subheadw{ line-height: 28px; font-size: 23px; color:#ffffff; font-weight: 500; align:center; font-family:arial;margin-left:14px; margin-top: 14px;margin-right:5px;} 
-p.subheadp{ line-height: 28px; font-size: 23px; color:#ff8282; font-weight: 500; align:center; font-family:arial;margin-left:14px; margin-top: 14px;margin-right:5px;} 
+p.subhead{ line-height: 28px; font-size: 23px; color:#ffff00; font-weight: 500; align:center; font-family:arial;margin-left:14px; margin-top: 14px;margin-right:5px;}
+p.subheadw{ line-height: 28px; font-size: 23px; color:#ffffff; font-weight: 500; align:center; font-family:arial;margin-left:14px; margin-top: 14px;margin-right:5px;}
+p.subheadp{ line-height: 28px; font-size: 23px; color:#ff8282; font-weight: 500; align:center; font-family:arial;margin-left:14px; margin-top: 14px;margin-right:5px;}
 
 p.one{ line-height: 7px; font-size: 13px; font-weight: 600; font-family:arial; text-align: center}
 
-p.two{ line-height: 18px; font-size: 16px; color:#ffffff; font-weight: 500; font-family:arial;margin-left:14px; margin-top: 14px;margin-right:5px; text-align: left} 
-p.twob{ line-height: 18px; font-size: 16px; color:#2244ff; font-weight: 500; font-family:arial;margin-left:34px; margin-top: 14px;margin-right:5px; text-align: left} 
-p.twoy{ line-height: 18px; font-size: 16px; color:#ffff00; font-weight: 500; font-family:arial;margin-left:14px; margin-top: 14px;margin-right:5px; text-align: left}   
-p.twoyc{ line-height: 18px; font-size: 16px; color:#ffff00; font-weight: 500; font-family:arial;margin-left:14px; margin-top: 14px;margin-right:5px; text-align: center}   
+p.two{ line-height: 1.25; font-size: 16px; color:#ffffff; font-weight: 500; font-family:arial;margin-left:14px; margin-top: 14px;margin-right:14px; text-align: justify;} 
+p.twob{ line-height: 18px; font-size: 16px; color:#2244ff; font-weight: 500; font-family:arial;margin-left:34px; margin-top: 14px;margin-right:5px; text-align: left}
+p.twoy{ line-height: 18px; font-size: 16px; color:#ffff00; font-weight: 500; font-family:arial;margin-left:14px; margin-top: 14px;margin-right:5px; text-align: left}
+p.twoyc{ line-height: 18px; font-size: 16px; color:#ffff00; font-weight: 500; font-family:arial;margin-left:14px; margin-top: 14px;margin-right:5px; text-align: center}
 
 
 
-p.three{ line-height: 19px; font-size: 17px; font-weight: 600; font-family:arial;margin-left:14px; margin-top:14px; margin-right:5px; text-align: left} 
+p.three{ line-height: 19px; font-size: 17px; font-weight: 600; font-family:arial;margin-left:14px; margin-top:14px; margin-right:5px; text-align: left}
 
 p.nine{ line-height: 20px; font-size: 20px; color:#000000; font-weight: 600; font-family:arial; text-align:center; margin-top: 20px;}
-
-

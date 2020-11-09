@@ -39,7 +39,7 @@ padding: 4px;
 text-align: center;
 border-bottom: 2px #fff solid;
 font-size: 20px;
-font-weight: bold;} 
+font-weight: bold;}
 
 
 table.bt
@@ -72,12 +72,12 @@ border-bottom: 2px #fff solid;
 font-size: 20px;
 font-weight: bold;
 }
- 
+
  td#box a:link {color:#eeee00;background:#ee0000;}
  td#box a:visited {color:#eeee00;background:#ee0000;}
  td#box a:hover {color:#eeee00;background:#ee0000;}
  td#box a:active {color:#eeee00;background:#ee0000;}
- 
+
 
 
 </style>
@@ -95,7 +95,7 @@ font-weight: bold;
 
 	<div id="strip"><IMG src="DSCF0204x.jpg"><IMG src="ll1.jpg"><IMG src="wolves1.jpg"><IMG src="DSCF0196c.jpg"><IMG src="kdflbadgex.jpg"><IMG src="bctraincx.jpg"><IMG src="DSCF0211x.jpg"><IMG src="pumakings.jpg"><IMG src="DSCF0209x.jpg">
 </div>
-	
+
 	<div id="one">&nbsp</div>
 	<div id="bar">&nbsp</div>
 	<div id="two">&nbsp</div>
@@ -105,13 +105,13 @@ font-weight: bold;
 	<div id="content2"><h2 class="deh"></h2>
 
 
-<p class="subhead">When you need to pay money to the league</p>	
+<p class="subhead">When you need to pay money to the league</p>
 
 <p class="two">The league's bank account name is: "Kingston & District Football League" and is held at Barclays Bank.
-</p> 
+</p>
 
-<p class="two">The Sort Code is: 20-46-73 and the Account Number is: 80564036.
-</p> 
+<p class="two">The Sort Code is: <strong>20-46-73</strong> and the Account Number is: <strong>80564036</strong>.
+</p>
 
 <p class="two">Use your club's name as a reference.
 </p>

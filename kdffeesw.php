@@ -347,6 +347,11 @@ font-weight: bold;
         <td class="feedatafee">£10</td>
       </tr>
       <tr class="feedata">
+        <td>20A</td>
+        <td>Failure to provide goal nets, corner flags and a minimum of two (2) footballs, fit for play.</td>
+        <td class="feedatafee">£20</td>
+      </tr>
+      <tr class="feedata">
         <td>20B</td>
         <td>Failure to play a match on the date fixed</td>
         <td class="feedatafee">£40</td>
