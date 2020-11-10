@@ -139,7 +139,7 @@ font-weight: bold;
 <p class="two">The Agreement Form, below, must be completed by all clubs each season and returned to the League Secretary.</p>
 
 <div class="cssbutton">
-<a href="agreement.pdf"><img src="down2.jpg" alt="AGREEMENT FORM" /><span>AGREEMENT FORM</span></a>
+<a href="agreement-2010-2021.pdf"><img src="down2.jpg" alt="AGREEMENT FORM" /><span>AGREEMENT 2020-2021</span></a>
 </div>
 
 <p class="two">A guide to the Whole Game System Player Registration</p>
