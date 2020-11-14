@@ -138,7 +138,7 @@ font-weight: bold;
 <IMG src="DSCF0214x.jpg"    align="left">
 
 <!-- Barry Tribe PHOTO -->
-<IMG src="unnamed.jpg"   style="width:120px;height:157px;" align="left">
+<IMG src="barry-tribe.jpg"   style="width:120px;height:157px;" align="left">
 
  <!-- Lew Block PHOTO -->
 
