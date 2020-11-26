@@ -142,7 +142,7 @@ font-weight: bold;
 
  <!-- Lew Block PHOTO -->
 
-<IMG src="unnamed.jpg"  style="width:120px;height:157px;"  align="left">
+<IMG src="lew-block.jpg"  style="width:120px;height:157px;"  align="left">
 
 </div>
 <!-- And These are the text details -->
@@ -156,12 +156,13 @@ font-weight: bold;
 </p>
 <p class="two">&nbsp</p>
 
+
 <!-- MIKE HALLETT DETAILS -->
 <p class="two">Mike Hallett - Chairman/Life Vice President<br>
                   Mobile: 07749 923079</p>
 <p class="two">Mike became Chairman in 1993. He also takes on the roles of Social Secretary, Trophies Secretary and General Secretary.
 </p>
-<p class="two">&nbsp</p>
+
 
 <!-- MIKE HALLETT DETAILS -->
 <p class="two">Mike Hallett - General Secretary<br>
@@ -171,6 +172,7 @@ font-weight: bold;
 </p>
 <p class="two">&nbsp</p>
 
+
 <!-- BRIAN SMITH DETAILS -->
 <p class="two">Brian Smith - Treasurer/Vice President<br>
                   Tel: 020 8549 3931, Mobile: 07980 653779<br>
@@ -179,13 +181,14 @@ font-weight: bold;
 </p>
 <p class="two">&nbsp</p>
 
+
 <!-- MAURICE GILLEY DETAILS -->
-<p class="two">Maurice Gilley - Registration & Fixtures Secretary<br>
+<p class="two" style="text-align:left;">Maurice Gilley - Registration & Fixtures Secretary<br>
                   Tel: 020 8542 2378, Mobile: 07940 555273<br>
                   e-mail: maurice-reg-fixturesKDFL@virginmedia.com</p>
 <p class="two">Maurice joined our committee in 2012 and now takes on two important roles.
 </p>
-<p class="two">&nbsp</p>
+
 
 <!-- Barry Tribe DETAILS -->
 <p class="two">Barry Tribe - Referees' Secretary<br>
@@ -193,7 +196,6 @@ font-weight: bold;
                   e-mail: refs-sec@kingstonanddistrict.co.uk</p>
 <p class="two">Having already been one of our referees, Barry joined the committee in 2020.
 </p>
-<p class="two">&nbsp</p>
 
 <!-- Lew Block DETAILS -->
 <p class="two">Lew Block - Minutes Secretary<br>
