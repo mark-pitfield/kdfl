@@ -86,6 +86,42 @@ font-weight: bold;
  td#box a:hover {color:#eeee00;background:#ee0000;}
  td#box a:active {color:#eeee00;background:#ee0000;}
 
+/* New Committee layout */
+.colpic {
+    width: 155px;
+    margin: 10px 0;
+}
+
+.coldesc {
+    width: 375px;
+    vertical-align: top;
+    margin: 10px 0;
+}
+
+.compic {
+    width: 155px;
+    height: 170px;
+    border-radius: 100%;
+}
+
+.comTitle {
+    font-size: large;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.comtel {
+    color: yellow;
+    font-family: monospace;
+    font-size: 90%;
+}
+
+.comDesc {
+    color: yellow;
+    margin-left: 10px;
+}
 
 
 </style>
@@ -119,92 +155,99 @@ font-weight: bold;
 
 <p class="twoy">If you are contacting a committee member on behalf of an existing member club and you are sending an e-mail then use your club name as the e-mail subject.</p></br>
 
-<!-- These are the photgraphs, They are 120 pixels wide -->
-<div align="left" style="width:155px; margin-left:35px;";>
-
-<!-- FRANK GARDINER PHOTO -->
-<IMG src="DSCF0212x.jpg"    align="left">
-
-<!-- MIKE HALLETT PHOTO -->
-<IMG src="DSCF0215x.jpg"    align="left">
-
-<!-- BRIAN GILLEY PHOTO -->
-<IMG src="DSCF0215x.jpg"     align="left">
-
-<!-- BRIAN SMITH PHOTO -->
-<IMG src="DSCF0001x.jpg"    align="left">
-
-<!-- MAURICE GILLEY PHOTO -->
-<IMG src="DSCF0214x.jpg"    align="left">
-
-<!-- Barry Tribe PHOTO -->
-<IMG src="barry-tribe.jpg"   style="width:120px;height:157px;" align="left">
-
- <!-- Lew Block PHOTO -->
-
-<IMG src="lew-block.jpg"  style="width:120px;height:157px;"  align="left">
-
+<div>
+  <table>
+    <!--Frank-->
+    <tr>
+        <td class="colpic">
+            <img class="compic" src="DSCF0212x.jpg">
+        <td>
+        <td class="coldesc">
+            <p class="comTitle">Frank Gardiner - President<br>
+                  <span class="comtel">t:020 8224 0530</span></p>
+            <p class="comDesc">Frank joined our committee in 1970 and has served as Referees' Secretary, Vice-Chairman and Chairman.</p>
+        </td>
+    </tr>
+    <!--Mike-->
+    <tr>
+        <td class="colpic">
+            <img class="compic" src="DSCF0215x.jpg">
+        <td>
+        <td class="coldesc">
+            <p class="comTitle">Mike Hallett - Chairman/Life Vice President<br>
+                  <span class="comtel">m:07749 923079</span></p>
+            <p class="comDesc">Mike became Chairman in 1993. He also takes on the roles of Social Secretary, Trophies Secretary and General Secretary.</p>
+        </td>
+    </tr>
+    <!--Mike General Sec.-->
+    <tr>
+        <td class="colpic">
+            <img class="compic" src="DSCF0215x.jpg">
+        <td>
+        <td class="coldesc">
+            <p class="comTitle">Mike Hallett - General Secretary<br>
+                  <span class="comtel">m:07749 923079<br>
+                  e:mikekdflsecretary@aol.com</span></p>
+            <p class="comDesc">Mike Hallett now takes on this pivotal role from 2020.</p>
+        </td>
+    </tr>
+    <!--Brian Smith - Treasurer/Vice President.-->
+    <tr>
+        <td class="colpic">
+            <img class="compic" src="DSCF0001x.jpg">
+        <td>
+        <td class="coldesc">
+            <p class="comTitle">Brian Smith - Treasurer/Vice President<br>
+                  <span class="comtel">t:020 8549 3931<br>
+                  m:07980 653779<br>
+                  e:brian@kingstonanddistrict.co.uk</span></p>
+            <p class="comDesc">Brian has been dilligently looking after the league's accounts since 1993.</p>
+        </td>
+    </tr>
+    <!--Maurice Gilley - Registration & Fixtures Secretary.-->
+    <tr>
+        <td class="colpic">
+            <img class="compic" src="DSCF0214x.jpg">
+        <td>
+        <td class="coldesc">
+            <p class="comTitle">Maurice Gilley - Registration & Fixtures Secretary<br>
+                  <span class="comtel">t:020 8542 2378<br>
+                  m:07940 555273<br>
+                  e:maurice-reg-fixturesKDFL@virginmedia.com</span></p>
+            <p class="comDesc">Maurice joined our committee in 2012 and now takes on two important roles.</p>
+        </td>
+    </tr>
+    <!--Barry Tribe - Referees' Secretary.-->
+    <tr>
+        <td class="colpic">
+            <img class="compic" src="barry-tribe.jpg">
+        <td>
+        <td class="coldesc">
+            <p class="comTitle">Barry Tribe - Referees' Secretary<br>
+                  <span class="comtel">
+                  m:07986 596 723<br>
+                  e:refs-sec@kingstonanddistrict.co.uk</span></p>
+            <p class="comDesc">Having already been one of our referees, Barry joined the committee in 2020.</p>
+        </td>
+    </tr>
+    <!--Lew Block - Minutes Secretary.-->
+    <tr>
+        <td class="colpic">
+            <img class="compic" src="lew-block.jpg">
+        <td>
+        <td class="coldesc">
+            <p class="comTitle">Lew Block - Minutes Secretary<br>
+                  <span class="comtel">t:0208 542 7614<br>
+                  m:07985 364 562<br>
+                  e:lewblock@hotmail.co.uk</span></p>
+            <p class="comDesc">Lew joined the League committee as Club Representative in 1997 and Minutes Secretary in 2020.</p>
+        </td>
+    </tr>
+</table>
 </div>
-<!-- And These are the text details -->
-<div align="left" style="width:375px; margin-left:165px;";>
 
 
-<!-- FRANK GARDINER DETAILS -->
-<p class="two">Frank Gardiner - President<br>
-                  Tel: 020 8224 0530</p>
-<p class="two">Frank joined our committee in 1970 and has served as Referees' Secretary, Vice-Chairman and Chairman.
-</p>
-<p class="two">&nbsp</p>
 
-
-<!-- MIKE HALLETT DETAILS -->
-<p class="two">Mike Hallett - Chairman/Life Vice President<br>
-                  Mobile: 07749 923079</p>
-<p class="two">Mike became Chairman in 1993. He also takes on the roles of Social Secretary, Trophies Secretary and General Secretary.
-</p>
-
-
-<!-- MIKE HALLETT DETAILS -->
-<p class="two">Mike Hallett - General Secretary<br>
-                  Mobile: 07749 923079<br>
-                  e-mail: mikekdflsecretary@aol.com</p>
-<p class="two">Mike Hallett now takes on this pivotal role.
-</p>
-<p class="two">&nbsp</p>
-
-
-<!-- BRIAN SMITH DETAILS -->
-<p class="two">Brian Smith - Treasurer/Vice President<br>
-                  Tel: 020 8549 3931, Mobile: 07980 653779<br>
-                  e-mail: brian@kingstonanddistrict.co.uk</p>
-<p class="two">Brian has been dilligently looking after the league's accounts since 1993.
-</p>
-<p class="two">&nbsp</p>
-
-
-<!-- MAURICE GILLEY DETAILS -->
-<p class="two" style="text-align:left;">Maurice Gilley - Registration & Fixtures Secretary<br>
-                  Tel: 020 8542 2378, Mobile: 07940 555273<br>
-                  e-mail: maurice-reg-fixturesKDFL@virginmedia.com</p>
-<p class="two">Maurice joined our committee in 2012 and now takes on two important roles.
-</p>
-
-
-<!-- Barry Tribe DETAILS -->
-<p class="two">Barry Tribe - Referees' Secretary<br>
-                  Mobile: 07986 596 723<br>
-                  e-mail: refs-sec@kingstonanddistrict.co.uk</p>
-<p class="two">Having already been one of our referees, Barry joined the committee in 2020.
-</p>
-
-<!-- Lew Block DETAILS -->
-<p class="two">Lew Block - Minutes Secretary<br>
-                  Tel: 0208 542 7614, Mobile  07985 364 562<br>
-                  e-mail: lewblock@hotmail.co.uk</p>
-<p class="two">Lew joined the League committee as Club Representative in 1997.
-</p>
-
-</div>
 &nbsp
 
 <!-- DETAILS OF OTHER COMMITTEE MEMBERS -->
