@@ -113,13 +113,11 @@ font-weight: bold;
 
 
 
-<p class="twoy">Tuesday 22 September 2020 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
-<p class="twoy">Tuesday 24 November 2020 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
 <p class="twoy">Tuesday 16 Febuary 2021 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
 <p class="twoy">Tuesday 20 April 2021 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
 <p class="twoy">Tuesday 18 May 2021 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
 
-<p class="twoy">Tuesday 15 June 2021 <span style="color:#ffffff"><strong>Annual General Meeting</strong> Mandatory for all clubs at Imber Court at 20.00<p> 
+<p class="twoy">Tuesday 15 June 2021 <span style="color:#ffffff"><strong>Annual General Meeting</strong> Mandatory for all clubs at Imber Court at 20.00<p>
 
 
 </table>
