@@ -84,7 +84,13 @@ font-weight: bold;
  td#box a:hover {color:#eeee00;background:#ee0000;}
  td#box a:active {color:#eeee00;background:#ee0000;}
 
-
+.h2Title {
+  margin: 20px 0;
+  font-size: 2.5em;
+  color:white;
+  font-weight: bold;
+  line-height: 1.5;
+}
 
 </style>
 
@@ -106,18 +112,11 @@ font-weight: bold;
 	<div id="bar">&nbsp</div>
 	<div id="two">&nbsp</div>
 
-	<div id="inside"style="height: auto;">
+	<div id="inside"style="height: 1200px;">
 
-	<div id="content2"><h2 class="deh"></h2>
+	<div id="content2">
+    <h2 class="h2Title">A potted history of our league</h2>
 
-
-
-
-
-
-
-
-<p class="subheadw">A potted history of our league</p>
 
 
 <!-- This is the picture of Alan Shaw -->
@@ -127,7 +126,7 @@ font-weight: bold;
 
 <!-- and this is the text next to his picture -->
 <div align="left" style="width:356px; margin-left:210px;";>
-<p class="two">Our league's beginnings go back to 1893, when Alan Shaw (pictured), journalist and cousin of George Bernard Shaw, moved from Edinburgh to London.</p>
+<p class="two">Our league's beginnings go back to <em>1893</em>, when Alan Shaw (pictured), journalist and cousin of George Bernard Shaw, moved from Edinburgh to London.</p>
 <p class="two">He was a keen footballer and, shortly after his move south, he joined the football club at London (Regent Street) Polytechnic. One of his teammates was Lord Kinnaird, who later became president of the Football Association.</p>
 <p class="two">Two years later Alan Shaw moved to Kingston and joined Kingston-on-Thames Town Association FC. The club later became Kingstonian FC. However, he noted there were numerous clubs in the area and looked at the possibility of a local league.</p>
 
@@ -135,13 +134,13 @@ font-weight: bold;
 
 <!-- and this is the text below his picture -->
 <div align="left" style="width:570px; margin-left:0px;";>
-<p class="two">On the Easter Saturday of 1896 a match was played, at Fairfield Recreation Ground, between a representative XI of the newly formed league and the North Middlesex League. The result was a 3-0 win for the new league. Later that year the league kicked off with nine teams in its first division and eleven in its second division.</P>
-<p class="two">At the end of the league's first season Alan Shaw moved once more; this time to Dublin but he still retained an interest in th league.</p>
-<p class="two">It was recorded that the league expenditure for the 1910/11 season totalled �37 8s 6d (�37.43). There were three divisions and 22 teams. It was noted that a pair of football boots could be purchased for 8/11 (just under 45p). </p>
+<p class="two">On the Easter Saturday of <em>1896</em> a match was played, at Fairfield Recreation Ground, between a representative XI of the newly formed league and the North Middlesex League. The result was a 3-0 win for the new league. Later that year the league kicked off with nine teams in its first division and eleven in its second division.</P>
+<p class="two">At the end of the league's first season Alan Shaw moved once more; this time to Dublin but he still retained an interest in the league.</p>
+<p class="two">It was recorded that the league expenditure for the <em>1910/11</em> season totalled &#8356;37 8s 6d (&#8356;37.43). There were three divisions and 22 teams. It was noted that a pair of football boots could be purchased for 8s 11d (8/11, just under 45p). </p>
 <p class="two">No matches were played during the four seasons which coincided with World War I, but the inter-war years saw the league increase in size to 7 divisions. These years also saw the formation of NPL FC and Kingston Albion FC.</p>
-<p class="two">It was the 1954/55 season which saw the league at its largest up to that time - 82 teams; but this was followed by the sad news of the death of the league's founder - Alan Shaw.
+<p class="two">It was the <em>1954/55</em> season which saw the league at its largest up to that time - 82 teams; but this was followed by the sad news of the death of the league's founder - Alan Shaw.
 <p class="two">Ten years later and Ken Tate, now one of our Life Vice-Presidents, joined the committee as our Registrations Secretary. Later that decade Frank Gardiner, now our League President, joined the league's referees' panel.</p>
-<p class="two">The 1964/65 season saw the league with 91 teams competing in 9 divisions. This began a ten year period which saw the league at its largest in its history. Since then numerous clubs have joined and left our league; but two club secretaries who derserve a mention for the work they have done for both their players and the league are Malcolm Benham of Hook Venturers FC and Andy Holmden of Kingston Albion FC.</P>
+<p class="two">The <em>1964/65</em> season saw the league with 91 teams competing in 9 divisions. This began a ten year period which saw the league at its largest in its history. Since then numerous clubs have joined and left our league; but two club secretaries who derserve a mention for the work they have done for both their players and the league are Malcolm Benham of Hook Venturers FC and Andy Holmden of Kingston Albion FC.</P>
 
 <p class="two">We hope that we are still fulfilling the ambitions that Alan Shaw had over a hundred years earlier.</p>
 
