@@ -122,8 +122,6 @@ rinfo {
 	<span class="rinfo">07748 877 704 - kandcblackie@googlemail.com</span><br>
 	<span class="rname">David Johnson Paul : </span>
 	<span class="rinfo">07976 097 039 - djpblessu2@aol.com</span><br>
-	<span class="rname">Derek Tansill : </span>
-	<span class="rinfo">0208 7701 687 - derektansill18@hotmail.com</span><br>
 	<span class="rname">Jim Pike : </span>
 	<span class="rinfo">07449 977 104 - jim.pike@dnata.co.uk</span><br>
 	<span class="rname">Les Stevens : </span>
@@ -148,6 +146,8 @@ rinfo {
 	<span class="rinfo">07538 571 874 - John-bobby74@yahoo.co.uk</span><br>
 	<span class="rname">John Goodall : </span>
 	<span class="rinfo">07834 913 668 - jamesgoodall3183@gmail.com</span><br>
+	<span class="rname">Mathew Leaning : </span>
+	<span class="rinfo">07941 638 439 - mathewleaning12@gmail.com</span><br>
 </table>
 
 &nbsp
