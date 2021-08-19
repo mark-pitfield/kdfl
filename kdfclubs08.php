@@ -100,8 +100,13 @@ font-weight: bold;
 	<div id="content2" style="background-image: url(bluekings.jpg); "><h2 class="deh"></h2>
 <p class="subhead">These are the contacts at the clubs in our league</p>
 
+<p class="twoy">Magpie Recruitment  ( Surrey - Div. One. )<br>
+Secretary:  William Dawson<br>
+Mobile:  07305 784888  email:  william@magpierecruitment.com<br>
+Ground:  Long Ditton Rec. Windmill Lane, Long Ditton, KT6 5JT<br>
+Colours; Black/White<br></p>
 
-<p class="twoy">New Elm  ( Surrey - Prem. Div. )<br>
+<p class="twoy">New Elm  ( Surrey - Div. One. )<br>
 Secretary:  Callum Rolfe<br>
 Mobile:  07824 810579  email:  newelmfc@gmail.com<br>
 Ground:  Richard Challoner School, Manor Drive North, New Malden, KT3 5PE<br>

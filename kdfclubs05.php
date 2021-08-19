@@ -130,7 +130,7 @@ Mobile:   07948 798128  email:  samkeenan6@hotmail.com<br>
 Ground:  Weston Green, Longmead Road, Thames Ditton, KT7 0JF<br>
 Colours:  Grey/Black<br></p>
 
-<p class="twoy">Dynamo Kingston  ( Surrey - Div. One. )<br>
+<p class="twoy">Dynamo Kingston  ( Surrey - Prem. Div. )<br>
 Secretary:  Simon Wilkins<br>
 Mobile:  07542 556138  email:  simon_fulham@hotmail.com<br>
 Ground:  Long Ditton Rec.  Windmill Lane, Long Ditton,  KT6 5JT<br>

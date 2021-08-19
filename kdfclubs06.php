@@ -105,12 +105,17 @@ font-weight: bold;
 
 <p class="subhead">These are the contacts at the clubs in our league</p>
 
-<p class="twoy">Epsom Casuals  ( Surrey - Div. One. )              <br>
+<p class="twoy">Epsom Casuals  ( Surrey - Prem. Div. )              <br>
 Secretary:  Philip Davies<br>
 Mobile:  07904 552465  email: epsomcasuals@gmail.com <br>
 Ground:  Imber Court Sports Ground, Ember Lane, East Molesey, KT8 0BT<br>
 Colours:  Royal Blue/Navy<br></p>
-<p class="twoy">FC Porto  ( London - Div. One. )                          <br>
+<p class="twoy">FC Porto  ( London - Prem. Div. )                          <br>
+Secretary:  Joshua  Lino-da Costa<br>
+Mobile:  07734 050261  email: enquiryfcpld@hotmail.com<br>
+Ground:  Barn Elms Sports Centre,  Elizabeth Walk,  SW13 0DG         <br>
+Colours:  Royal Blue/White<br></p>
+<p class="twoy">FC Porto Res. ( London - Div. One. )                          <br>
 Secretary:  Joshua  Lino-da Costa<br>
 Mobile:  07734 050261  email: enquiryfcpld@hotmail.com<br>
 Ground:  Barn Elms Sports Centre,  Elizabeth Walk,  SW13 0DG         <br>
