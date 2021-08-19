@@ -106,11 +106,7 @@ font-weight: bold;
 
 <p class="subhead">These are the contacts at the clubs in our league</p>
 
-<p class="twoy">AFC Malden ( Surrey - Div. One. )                      <br>
-Secretary:   Joe Pollicott<br>
-Mobile:  07725 054384  email:  afcmalden@gmail.com<br>
-Ground:  Imber Court Sports Ground, Ember Lane, East Molesey, KT8 0BT<br>
-Colours:  Green/Black<br></p>
+
 
 <p class="twoy">Barnslake  ( Surrey - Div. One. )<br>
 Secretary:  Denis Holley<br>
@@ -118,17 +114,9 @@ Mobile:  07305 897307  email:  denisholley@blueyonder.co.uk<br>
 Ground:    King George’s Field, Ham Street, Richmond, TW10 7RS<br>
 Colours:  Red/White<br></p>
 
-<p class="twoy">CS Lions ( Surrey - Div. One. ) <br>
-Secretary:  Paul Loughran<br>
-Mobile:  07522 463267  email:  pauldloughran@outlook.com<br>
-Ground:  Long Ditton Rec. Windmill Lane, Long Ditton, KT6 5JT<br>
-Colours:  Black/White<br></p>
 
-<p class="twoy">Double H    ( Surrey - Prem. Div. )<br>
-Secretary: Sam Keenan<br>
-Mobile:   07948 798128  email:  samkeenan6@hotmail.com<br>
-Ground:  Weston Green, Longmead Road, Thames Ditton, KT7 0JF<br>
-Colours:  Grey/Black<br></p>
+
+
 
 <p class="twoy">Dynamo Kingston  ( Surrey - Prem. Div. )<br>
 Secretary:  Simon Wilkins<br>

@@ -135,11 +135,7 @@ Secretary:  Malcolm Hall<br>
 Mobile:  07885 593795  email:  malcolm985@btinternet.com<br>
 Ground:  King Edward Rec.  226 Hook Road,  Chessington, Surrey KT9 1PL       <br>
 Colours:  Maroon<br></p>
-<p class="twoy">Kempton Athletic   ( Surrey - Div. One. )           <br>
-Secretary:   Jack Crawford<br>
-Mobile:  07496 091670  email:  jackcrawford@hotmail.co.uk<br>
-Ground:  Feltham Community College, Browells Lane, Feltham, TW13 7EF     <br>
-Colours:   Grey<br></p>
+
 
 </table>
 
