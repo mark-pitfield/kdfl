@@ -106,7 +106,11 @@ font-weight: bold;
 
 <p class="subhead">These are the contacts at the clubs in our league</p>
 
-
+<p class="twoy">AFC Hanworth ( Middlesex - Div. One. )<br>
+Secretary:  Joe Gray<br>
+Mobile:  07507 707546  email:  joe@lock24.co.uk<br>
+Ground:  Ashford Rec.  Clockhouse Lane  Ashford  TW15 2HH<br>
+Colours:  Blue/White<br></p>
 
 <p class="twoy">Barnslake  ( Surrey - Div. One. )<br>
 Secretary:  Denis Holley<br>

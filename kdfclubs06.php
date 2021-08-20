@@ -125,11 +125,13 @@ Secretary:   Charlie John<br>
 Mobile:  07938 532173  email: hamptonlocomotivfc@gmail.com<br>
 Ground:  King George’s Field,  Richmond,  TW10 7RS      <br>
 Colours:  Purple<br></p>
+
 <p class="twoy">Hampton Town ( Surrey - Prem. Div. )<br>
 Secretary: Greg Stanworth<br>
-Mobile:  07710 647721  email:greg.stanworth@greenacrefs.co.uk<br>
-Ground:  Matthew Arnold School, Kingston Road, Staines, TW18 1PF<br>
+Mobile:  07710 647721  email: greg.stanworth88@hotmail.co.uk<br>
+Ground:  Spring West Academy Feltham Middlesex<br>
 Colours:  Blue/Black<br></p>
+
 <p class="twoy">Hook Venturers  ( Surrey - Div. One. )             <br>
 Secretary:  Malcolm Hall<br>
 Mobile:  07885 593795  email:  malcolm985@btinternet.com<br>

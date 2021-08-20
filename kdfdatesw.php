@@ -120,7 +120,7 @@ font-weight: bold;
 <p class="twoy">Tuesday 19th April 2022 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
 <p class="twoy">Tuesday 17th May 2022 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
 
-<p class="twoy">Tuesday 14th June 2021 <span style="color:#ffffff"><strong>Annual General Meeting</strong> Mandatory for all clubs at Imber Court at 20.00<p>
+<p class="twoy">Tuesday 14th June 2022 <span style="color:#ffffff"><strong>Annual General Meeting</strong> Mandatory for all clubs at Imber Court at 20.00<p>
 
 
 </table>

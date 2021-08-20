@@ -107,10 +107,10 @@ Ground:  Long Ditton Rec. Windmill Lane, Long Ditton, KT6 5JT<br>
 Colours; Black/White<br></p>
 
 <p class="twoy">New Elm  ( Surrey - Div. One. )<br>
-Secretary:  Callum Rolfe<br>
-Mobile:  07824 810579  email:  newelmfc@gmail.com<br>
+Secretary:  Oliver Relf<br>
+Mobile:  07772 522245  email:  orelf12@gmail.com<br>
 Ground:  Richard Challoner School, Manor Drive North, New Malden, KT3 5PE<br>
-Colours;  Turquoise<br></p>
+Colours; Blue<br></p>
 
 <p class="twoy">Old Isleworthians     ( Amateur Football Alliance - Prem. Div. )<br>
 Secretary:    Steve Smith<br>
@@ -126,7 +126,7 @@ Colours: Red/Black      <br></p>
 
 <p class="twoy">Petersham Pumas  ( Surrey - Prem. Div. )   <br>
 Secretary:  Kevin Snares<br>
-Mobile:     07396 560009  email:  kevinsnares524@gmail.com<br>
+Mobile:  07552 420175  email:  kevinsnares524@gmail.com<br>
 Ground:  Barn Elms Sports Centre, Elizabeth Walk, SW13 ODG<br>
 Colours:   Claret/Blue<br></p>
 <p class="twoy">RC Old Boys  ( Surrey - Prem. Div. )<br>
