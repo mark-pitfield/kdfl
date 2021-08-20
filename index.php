@@ -117,7 +117,7 @@ font-weight: bold;
 
 
 	
-      <P class="two">This is the official site of the Kingston & District Football League, which is affiliated to the Surrey County Football Association. Our clubs come from, and matches are played in, an area which covers much of South West London and Surrey. The league consists of three divisions, each with up to twelve teams in each. There are also four cup competitions - two for the teams in the top half of the league and two for the teams in the lower half. Added to this will be a cup competition provided by your affiliated County.</br></p> 
+      <P class="two">This is the official site of the Kingston & District Football League, which is affiliated to the Surrey County Football Association. Our clubs come from, and matches are played in, an area which covers much of South West London and Surrey. The league consists of two divisions, each with up to twelve teams in each. There are also four cup competitions - two for the teams in the top half of the league and two for the teams in the lower half. Added to this will be a cup competition provided by your affiliated County.</br></p> 
 
 <P class="two">Clubs wishing to join the league should print off and complete the application form and then forward it to the General Secretary. Details are available in the links on the right hand side of this page. </br></p>
 
