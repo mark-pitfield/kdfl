@@ -195,7 +195,7 @@ font-weight: bold;
       <tr class="feedata">
         <td></td>
         <td>Referee Fees for Two one houe games</td>
-        <td class="feedatafee">£50</td>
+        <td class="feedatafee">£60</td>
       </tr>
       <tr class="feedata">
         <td></td>
@@ -273,7 +273,7 @@ font-weight: bold;
       </tr>
       <tr class="feedata">
         <td>9</td>
-        <td>Failure to be represented at the SEM</td>
+        <td>Failure to be represented at the SGM</td>
         <td class="feedatafee">£10</td>
       </tr>
       <tr class="feedata">
