@@ -194,7 +194,7 @@ font-weight: bold;
       </tr>
       <tr class="feedata">
         <td></td>
-        <td>Referee Fees for Two one houe games</td>
+        <td>Referee Fees for Two one hour games</td>
         <td class="feedatafee">£60</td>
       </tr>
       <tr class="feedata">
