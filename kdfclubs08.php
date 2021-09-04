@@ -103,14 +103,14 @@ font-weight: bold;
 <p class="twoy">Magpie Recruitment  ( Surrey - Div. One. )<br>
 Secretary:  William Dawson<br>
 Mobile:  07305 784888  email:  william@magpierecruitment.com<br>
-Ground:  Long Ditton Rec. Windmill Lane, Long Ditton, KT6 5JT<br>
-Colours; Black/White<br></p>
+Ground:  Surbiton Town  Sports Centre,  River Hill Estate ,  Worcester Park Road,  KT4 7QB<br>
+Colours: Yellow/Blue<br></p>
 
 <p class="twoy">New Elm  ( Surrey - Div. One. )<br>
 Secretary:  Oliver Relf<br>
 Mobile:  07772 522245  email:  orelf12@gmail.com<br>
 Ground:  Richard Challoner School, Manor Drive North, New Malden, KT3 5PE<br>
-Colours; Blue<br></p>
+Colours: Blue<br></p>
 
 <p class="twoy">Old Isleworthians     ( Amateur Football Alliance - Prem. Div. )<br>
 Secretary:    Steve Smith<br>

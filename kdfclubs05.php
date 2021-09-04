@@ -110,7 +110,7 @@ font-weight: bold;
 Secretary:  Joe Gray<br>
 Mobile:  07507 707546  email:  joe@lock24.co.uk<br>
 Ground:  Ashford Rec.  Clockhouse Lane  Ashford  TW15 2HH<br>
-Colours:  Blue/White<br></p>
+Colours:  Yellow<br></p>
 
 <p class="twoy">Barnslake  ( Surrey - Div. One. )<br>
 Secretary:  Denis Holley<br>

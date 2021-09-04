@@ -110,17 +110,20 @@ Secretary:  Philip Davies<br>
 Mobile:  07904 552465  email: epsomcasuals@gmail.com <br>
 Ground:  Imber Court Sports Ground, Ember Lane, East Molesey, KT8 0BT<br>
 Colours:  Royal Blue/Navy<br></p>
+
 <p class="twoy">FC Porto  ( London - Prem. Div. )                          <br>
 Secretary:  Joshua  Lino-da Costa<br>
 Mobile:  07734 050261  email: enquiryfcpld@hotmail.com<br>
 Ground:  Barn Elms Sports Centre,  Elizabeth Walk,  SW13 0DG         <br>
 Colours:  Royal Blue/White<br></p>
+
 <p class="twoy">FC Porto Res. ( London - Div. One. )                          <br>
 Secretary:  Joshua  Lino-da Costa<br>
 Mobile:  07734 050261  email: enquiryfcpld@hotmail.com<br>
 Ground:  Barn Elms Sports Centre,  Elizabeth Walk,  SW13 0DG         <br>
 Colours:  Royal Blue/White<br></p>
-<p class="twoy">Hampton Locomotiv   ( Middlesex - Prem. Div. )<br>
+
+<p class="twoy">Hampton Lokomotiv   ( Middlesex - Prem. Div. )<br>
 Secretary:   Charlie John<br>
 Mobile:  07938 532173  email: hamptonlocomotivfc@gmail.com<br>
 Ground:  King George’s Field,  Richmond,  TW10 7RS      <br>

@@ -120,14 +120,8 @@ Colours:  Red/White<br></p>
 <p class="twoy">Surbiton Warriors ( Surrey - Div. One. )<br>
 Secretary:  Rory Vassall<br>
 Mobile:  07415 633582  email:  roryvassall3@gmail.com<br>
-Ground:  Long Ditton Rec. Windmill Lane, Long Ditton, KT6 5JT<br>
-Colours:  Blue<br></p>
-
-<p class="twoy">Teddington  ( Amateur Football Alliance - Prem. Div. )<br>
-Secretary:  Neil Mason<br>
-Mobile:  07951 059288  email:  neiljamesmason@googlemail.com<br>
-Ground:  Feltham Community College, Browells Lane, Feltham, TW13 7EF<br>
-Colours:  Red/Black<br></p>
+Ground:  Surbiton Town  Sports Centre,  River Hill Estate ,  Worcester Park Road,  KT4 7QB<br>
+Colours:  Blue/White<br></p>
 
 <p class="twoy">Thornton Heath  ( Surrey - Div. One. )<br>
 Secretary:  Lew Block<br>
