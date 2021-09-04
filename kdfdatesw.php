@@ -120,6 +120,8 @@ font-weight: bold;
 <p class="twoy">Tuesday 19th April 2022 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
 <p class="twoy">Tuesday 17th May 2022 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
 
+<p class="twoy">Saturday 21st May 2022 <span style="color:#ffffff">Presentation Night at Surbiton Golf Club 7.30pm until late. Woodstock Lane South, Chessington, Surrey KT9 1UG<p>
+
 <p class="twoy">Tuesday 14th June 2022 <span style="color:#ffffff"><strong>Annual General Meeting</strong> Mandatory for all clubs at Imber Court at 20.00<p>
 
 
