@@ -124,7 +124,7 @@ Mobile:  07785 720353  email:  stsmith1115@gmail.com<br>
 Ground:  Memorial Ground, 22A Wood Lane, Isleworth, TW7 5ED<br>
 Colours: Red/Black      <br></p>
 
-<p class="twoy">Parkside  ( Surrey -  )   <br>
+<p class="twoy">Parkside  ( Surrey - Div. One. )   <br>
 Secretary:  Sophie Kelly<br>
 Mobile:  07943 501701  email:  parksidefc@gmail.com<br>
 Ground:  Decker Sports Ground, Kingston Road, Tolworth  KT5 9NT<br>
