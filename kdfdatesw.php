@@ -115,7 +115,10 @@ font-weight: bold;
 
 <p class="twoy">Tuesday 24th Auguest 2021 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
 <p class="twoy">Tuesday 21st September 2021 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
+<p class="twoy">Thursday 11th November 2021 <span style="color:#ffffff">Teck Junior Cup Final at Molesy FC   KO 7.30pm - <em>Dynamo Kingston v Thornton Heath</em><p>
+<p class="twoy">Thursday 18th November 2021 <span style="color:#ffffff">Teck Senior Cup Final  at Molesey FC  KO 7.30pm - <em>Old Isleworthians  v  Petersham Pumas</em><p>
 <p class="twoy">Tuesday 23rd November 2021 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
+<p class="twoy">Thursday 25th November 2021 <span style="color:#ffffff"> League Junior Cup Final at Molesey FC  KO 7.30pm - <emd>Dynamo Kingston v Epsom Casuals</em><p>
 <p class="twoy">Tuesday 15th Febuary 2022 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
 <p class="twoy">Tuesday 19th April 2022 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
 <p class="twoy">Tuesday 17th May 2022 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
@@ -125,7 +128,7 @@ font-weight: bold;
 <p class="twoy">Tuesday 14th June 2022 <span style="color:#ffffff"><strong>Annual General Meeting</strong> Mandatory for all clubs at Imber Court at 20.00<p>
 
 
-</table>
+</table>Z
 &nbsp
 </div>
 
