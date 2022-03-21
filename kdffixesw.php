@@ -141,34 +141,6 @@ font-weight: bold;
 <a href="http://full-time.thefa.com/Index.do?league=698710597" target="_blank"><img src="down2.jpg" alt="FIXTURES & RESULTS" /><span>FIXTURES & RESULTS</span></a>
 </div>
 
-<h1 class="kdflDivTitle">KDFL Current Tables</h1>
-
-
-<div class="kdflTable">
-  <h2 class="tblDivision">Premier Division</h2>
-
-  <div id="lrep892104451" style="width: 550px;">Data loading....<a href="http://fulltime-league.thefa.com/Index.do?divisionseason=825421277">click here for Premier Division</a><br/><br/><a href="http://www.thefa.com/FULL-TIME">FULL-TIME Home</a></div>
-  <script language="javascript" type="text/javascript">
-  var lrcode = '892104451'
-  </script>
-  <script language="Javascript" type="text/javascript" src="https://fulltime-league.thefa.com/client/api/cs1.js?v2"></script>
-</div>
-
-
-
-<div class="kdflTable">
-  <h2 class="tblDivision">First Division</h2>
-  <div id="lrep180310815" style="width: 550px;">Data loading....<a href="http://fulltime-league.thefa.com/Index.do?divisionseason=500871015">click here for Division One</a><br/><br/><a href="http://www.thefa.com/FULL-TIME">FULL-TIME Home</a></div>
-  <script language="javascript" type="text/javascript">
-  var lrcode = '180310815'
-  </script>
-  <script language="Javascript" type="text/javascript" src="https://fulltime-league.thefa.com/client/api/cs1.js?v2"></script>
-</div>
-
-
-
-</table>
-
 
 &nbsp
 
