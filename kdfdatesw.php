@@ -113,14 +113,12 @@ font-weight: bold;
 
 
 
-<p class="twoy">Tuesday 24th Auguest 2021 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
-<p class="twoy">Tuesday 21st September 2021 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
-<p class="twoy">Thursday 11th November 2021 <span style="color:#ffffff">Teck Junior Cup Final at Molesy FC   KO 7.30pm - <em>Dynamo Kingston v Thornton Heath</em><p>
-<p class="twoy">Thursday 18th November 2021 <span style="color:#ffffff">Teck Senior Cup Final  at Molesey FC  KO 7.30pm - <em>Old Isleworthians  v  Petersham Pumas</em><p>
-<p class="twoy">Tuesday 23rd November 2021 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
-<p class="twoy">Thursday 25th November 2021 <span style="color:#ffffff"> League Junior Cup Final at Molesey FC  KO 7.30pm - <em>Dynamo Kingston v Epsom Casuals</em><p>
-<p class="twoy">Tuesday 15th Febuary 2022 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
+<p class="twoy">Good Friday 15th April 2022 <span style="color:#ffffff">Teck Senior Cup Final, KO 11:00 AM at Molesey FC - RC Old Boys v Petersham Pumas<p>
+
 <p class="twoy">Tuesday 19th April 2022 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
+<p class="twoy">Thursday 21st April 2022 <span style="color:#ffffff">Teck Junior Cup Final, KO 7:30 PM at Molesey FC - New Elm v Parkside<p>
+<p class="twoy">Thursday 28th April 2022 <span style="color:#ffffff">League Senior Cup Final, KO 7:30 PM at Molesey FC - RC Old Boys v Petersham Pumas<p>
+<p class="twoy">Thursday 5th May 2022 <span style="color:#ffffff">League Junior Cup Final, KO 7:30 PM at Molesey FC - New Elm v Parkside<p>
 <p class="twoy">Tuesday 17th May 2022 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
 
 <p class="twoy">Saturday 21st May 2022 <span style="color:#ffffff">Presentation Night at Surbiton Golf Club 7.30pm until late. Woodstock Lane South, Chessington, Surrey KT9 1UG<p>
