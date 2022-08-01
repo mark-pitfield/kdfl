@@ -113,17 +113,8 @@ font-weight: bold;
 
 
 
-<p class="twoy">Good Friday 15th April 2022 <span style="color:#ffffff">Teck Senior Cup Final, KO 11:00 AM at Molesey FC - RC Old Boys v Petersham Pumas<p>
 
-<p class="twoy">Tuesday 19th April 2022 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
-<p class="twoy">Thursday 21st April 2022 <span style="color:#ffffff">Teck Junior Cup Final, KO 7:30 PM at Molesey FC - New Elm v Parkside<p>
-<p class="twoy">Thursday 28th April 2022 <span style="color:#ffffff">League Senior Cup Final, KO 7:30 PM at Molesey FC - RC Old Boys v Petersham Pumas<p>
-<p class="twoy">Thursday 5th May 2022 <span style="color:#ffffff">League Junior Cup Final, KO 7:30 PM at Molesey FC - New Elm v Parkside<p>
-<p class="twoy">Tuesday 17th May 2022 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
-
-<p class="twoy">Saturday 21st May 2022 <span style="color:#ffffff">Presentation Night at Surbiton Golf Club 7.30pm until late. Woodstock Lane South, Chessington, Surrey KT9 1UG<p>
-
-<p class="twoy">Tuesday 14th June 2022 <span style="color:#ffffff"><strong>Annual General Meeting</strong> Mandatory for all clubs at Imber Court at 20.00<p>
+<p class="twoy">Tuesday 23rd August 2022 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
 
 
 </table>Z
