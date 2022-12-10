@@ -165,12 +165,12 @@ font-weight: bold;
       <tr class="feedata">
         <td>4G</td>
         <td>Contribution to League Presentation evening (per club)</td>
-        <td class="feedatafee">£60</td>
+        <td class="feedatafee">£70</td>
       </tr>
       <tr class="feedata">
         <td></td>
         <td>Additional Teams (each)</td>
-        <td class="feedatafee">£30</td>
+        <td class="feedatafee">£35</td>
       </tr>
       <tr class="feedata">
         <td>7C,F,H</td>

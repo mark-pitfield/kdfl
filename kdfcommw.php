@@ -217,17 +217,17 @@ font-weight: bold;
             <p class="comDesc">Maurice joined our committee in 2012 and now takes on two important roles.</p>
         </td>
     </tr>
-    <!--Barry Tribe - Referees' Secretary.-->
+    <!--Martin Ref Sec. - Referees' Secretary.-->
     <tr>
         <td class="colpic">
-            <img class="compic" src="barry-tribe.jpg">
+            <img class="compic" src="martin-kdfl.jpg">
         <td>
         <td class="coldesc">
-            <p class="comTitle">Barry Tribe - Referees' Secretary<br>
+            <p class="comTitle">Martin Coughlan - Referees' Secretary<br>
                   <span class="comtel">
-                  m:07986 596 723<br>
-                  e:refs-sec@kingstonanddistrict.co.uk</span></p>
-            <p class="comDesc">Having already been one of our referees, Barry joined the committee in 2020.</p>
+                  m:07984 155 941<br>
+                  e:martinpcoughlan@gmail.com</span></p>
+            <p class="comDesc">Having already been one of our referees, Martin joined the committee in July 2022.</p>
         </td>
     </tr>
     <!--Lew Block - Minutes Secretary.-->

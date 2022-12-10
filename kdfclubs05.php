@@ -106,13 +106,9 @@ font-weight: bold;
 
 <p class="subhead">These are the contacts at the clubs in our league</p>
 
-<p class="twoy">AFC Hanworth ( Middlesex - Div. One. )<br>
-Secretary:  Joe Gray<br>
-Mobile:  07507 707546  email:  joe@lock24.co.uk<br>
-Ground:  Ashford Rec.  Clockhouse Lane  Ashford  TW15 2HH<br>
-Colours:  Yellow<br></p>
 
-<p class="twoy">Barnslake  ( Surrey - Div. One. )<br>
+
+<p class="twoy">Barnslake  ( Surrey - Prem. Div. )<br>
 Secretary:  Denis Holley<br>
 Mobile:  07305 897307  email:  denisholley@blueyonder.co.uk<br>
 Ground:    King George’s Field, Ham Street, Richmond, TW10 7RS<br>
@@ -123,8 +119,8 @@ Colours:  Red/White<br></p>
 
 
 <p class="twoy">Dynamo Kingston  ( Surrey - Prem. Div. )<br>
-Secretary:  Simon Wilkins<br>
-Mobile:  07542 556138  email:  simon_fulham@hotmail.com<br>
+Secretary:  Alex Flinders<br>
+Mobile:   07837  798042  email:  flex_alinders@yahoo.co.uk<br>
 Ground:  Long Ditton Rec.  Windmill Lane, Long Ditton,  KT6 5JT<br>
 Colours:  Green/Black<br></p>
 

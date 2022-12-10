@@ -8,8 +8,8 @@ session_start();
 <head>
 <title>Kingston & District Football League.....</title>
 
-<link rel="stylesheet" type="text/css"href="kdfl.css" /> 
-<style type="text/css"> 
+<link rel="stylesheet" type="text/css"href="kdfl.css" />
+<style type="text/css">
 <?php
 $_SESSION['linkno'] = '08';
 ?>
@@ -40,7 +40,7 @@ padding: 4px;
 text-align: center;
 border-bottom: 2px #fff solid;
 font-size: 20px;
-font-weight: bold;} 
+font-weight: bold;}
 
 table.bt
 {margin-left: 42px;
@@ -72,7 +72,7 @@ border-bottom: 2px #fff solid;
 font-size: 20px;
 font-weight: bold;
 }
- 
+
  td#box a:link {color:#eeee00;background:#ee0000;}
  td#box a:visited {color:#eeee00;background:#ee0000;}
  td#box a:hover {color:#eeee00;background:#ee0000;}
@@ -100,15 +100,15 @@ font-weight: bold;
 	<div id="content2" style="background-image: url(bluekings.jpg); "><h2 class="deh"></h2>
 <p class="subhead">These are the contacts at the clubs in our league</p>
 
-<p class="twoy">Magpie Recruitment  ( Surrey - Div. One. )<br>
+<p class="twoy">Magpie Recruitment  ( Surrey - Prem. Div. )<br>
 Secretary:  William Dawson<br>
 Mobile:  07305 784888  email:  william@magpierecruitment.com<br>
 Ground:  Surbiton Town  Sports Centre,  River Hill Estate ,  Worcester Park Road,  KT4 7QB<br>
-Colours: Yellow/Blue<br></p>
+Colours: Black/White<br></p>
 
 <p class="twoy">New Elm  ( Surrey - Div. One. )<br>
 Secretary:  Oliver Relf<br>
-Mobile:  07772 522245  email:  orelf12@gmail.com<br>
+Mobile:  07772 522245  email:  newelmfc@gmail.com <br>
 Ground:  Richard Challoner School, Manor Drive North, New Malden, KT3 5PE<br>
 Colours: Blue<br></p>
 
@@ -124,23 +124,17 @@ Mobile:  07785 720353  email:  stsmith1115@gmail.com<br>
 Ground:  Memorial Ground, 22A Wood Lane, Isleworth, TW7 5ED<br>
 Colours: Red/Black      <br></p>
 
-<p class="twoy">Parkside  ( Surrey - Div. One. )   <br>
-Secretary:  Sophie Kelly<br>
-Mobile:  07943 501701  email:  parksidefc@gmail.com<br>
+<p class="twoy">Parkside  ( Surrey - Prem. Div. )   <br>
+Secretary:  Bobby Smith<br>
+Mobile:  07725 170194  email:  parksidefc1@gmail.com<br>
 Ground:  Decker Sports Ground, Kingston Road, Tolworth  KT5 9NT<br>
 Colours:   Blue/White<br></p>
 
-<p class="twoy">Petersham Pumas  ( Surrey - Prem. Div. )   <br>
-Secretary:  Kevin Snares<br>
-Mobile:  07552 420175  email:  kevinsnares524@gmail.com<br>
-Ground:  Barn Elms Sports Centre, Elizabeth Walk, SW13 ODG<br>
-Colours:   Claret/Blue<br></p>
-
-<p class="twoy">RC Old Boys  ( Surrey - Prem. Div. )<br>
-Secretary:   Joe Roche<br>
-Mobile:   07739 062200  email:  joeadamroche@outlook.com<br>
-Ground:  Richard Challoner School, Manor Drive North, New Malden, KT3 5PE<br>
-Colours:  Green/White<br></p>
+<p class="twoy">Riverside  ( Surrey - Div. One. )   <br>
+Secretary:  Luke Ponting<br>
+Mobile:  07399 437811  email:  lukeponting2020@outlook.com<br>
+Ground:  Hawker Centre, Lower Ham Road, Kingston upon Thames, KT2 5BH<br>
+Colours:   Sky Blue<br></p>
 
 </table>
 &nbsp

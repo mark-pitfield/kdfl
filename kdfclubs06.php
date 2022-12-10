@@ -105,35 +105,17 @@ font-weight: bold;
 
 <p class="subhead">These are the contacts at the clubs in our league</p>
 
-<p class="twoy">Epsom Casuals  ( Surrey - Prem. Div. )              <br>
-Secretary:  Philip Davies<br>
-Mobile:  07904 552465  email: epsomcasuals@gmail.com <br>
-Ground:  Imber Court Sports Ground, Ember Lane, East Molesey, KT8 0BT<br>
-Colours:  Royal Blue/Navy<br></p>
-
-<p class="twoy">FC Porto  ( London - Prem. Div. )                          <br>
+<p class="twoy">FC Porto  ( London - Div. One. )                          <br>
 Secretary:  Joshua  Lino-da Costa<br>
 Mobile:  07734 050261  email: enquiryfcpld@hotmail.com<br>
 Ground:  Barn Elms Sports Centre,  Elizabeth Walk,  SW13 0DG         <br>
 Colours:  Royal Blue/White<br></p>
 
-<p class="twoy">FC Porto Res. ( London - Div. One. )                          <br>
-Secretary:  Joshua  Lino-da Costa<br>
-Mobile:  07734 050261  email: enquiryfcpld@hotmail.com<br>
-Ground:  Barn Elms Sports Centre,  Elizabeth Walk,  SW13 0DG         <br>
-Colours:  Royal Blue/White<br></p>
 
-<p class="twoy">Hampton Lokomotiv   ( Middlesex - Prem. Div. )<br>
-Secretary:   Charlie John<br>
-Mobile:  07938 532173  email: hamptonlocomotivfc@gmail.com<br>
-Ground:  King George’s Field,  Richmond,  TW10 7RS      <br>
-Colours:  Purple<br></p>
 
-<p class="twoy">Hampton Town ( Surrey - Prem. Div. )<br>
-Secretary: Greg Stanworth<br>
-Mobile:  07710 647721  email: greg.stanworth88@hotmail.co.uk<br>
-Ground:  Spring West Academy Feltham Middlesex<br>
-Colours:  Blue/Black<br></p>
+
+
+
 
 <p class="twoy">Hook Venturers  ( Surrey - Div. One. )             <br>
 Secretary:  Malcolm Hall<br>
@@ -141,7 +123,11 @@ Mobile:  07885 593795  email:  malcolm985@btinternet.com<br>
 Ground:  King Edward Rec.  226 Hook Road,  Chessington, Surrey KT9 1PL       <br>
 Colours:  Maroon<br></p>
 
-
+<p class="twoy">Junction Elite  ( Amateur Football Alliance - Div. One. )             <br>
+Secretary:  Jasmine Turley<br>
+Mobile:  07537 100870  email: secretary@junctionelite.org <br>
+Ground:  Wimbledon Common Extensions, Robin Hood Way, SW15 3PQ <br>
+Colours:  Royal Blue<br></p>
 </table>
 
 &nbsp

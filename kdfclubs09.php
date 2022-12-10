@@ -8,9 +8,9 @@ session_start();
 <head>
 <title>Kingston & District Football League.....</title>
 
-<link rel="stylesheet" type="text/css"href="kdfl.css" /> 
+<link rel="stylesheet" type="text/css"href="kdfl.css" />
 
-<style type="text/css"> 
+<style type="text/css">
 <?php
 $_SESSION['linkno'] = '09';
 ?>
@@ -41,7 +41,7 @@ padding: 4px;
 text-align: center;
 border-bottom: 2px #fff solid;
 font-size: 20px;
-font-weight: bold;} 
+font-weight: bold;}
 
 table.bt
 {margin-left: 42px;
@@ -73,12 +73,12 @@ border-bottom: 2px #fff solid;
 font-size: 20px;
 font-weight: bold;
 }
- 
+
  td#box a:link {color:#eeee00;background:#ee0000;}
  td#box a:visited {color:#eeee00;background:#ee0000;}
  td#box a:hover {color:#eeee00;background:#ee0000;}
  td#box a:active {color:#eeee00;background:#ee0000;}
- 
+
 </style>
 
 </head>
@@ -92,7 +92,7 @@ font-weight: bold;
 	<div id="one">&nbsp</div>
 
         <div id="strip"><IMG src="IMG_0767x.jpg"><IMG src="bctrainc.jpg"><IMG src="DSCF0193c.jpg"><IMG src="DSCF0202x.jpg"><IMG src="kdflbadgex.jpg"><IMG src="DSCF0196c.jpg"><IMG src="pumakings.jpg"><IMG src="DSCF0200.jpg"><IMG src="DSCF0209x.jpg">
-	
+
 </div>
 	<!-- Below is the red bar and the black bars above and below it -->
 	<div id="one">&nbsp</div>
@@ -111,13 +111,13 @@ Mobile:  07774 071824  email:  stmartinsfc@hotmail.com<br>
 Ground:  Dundonald Rec. Dundonald Road, Wimbledon, SW19 3QH<br>
 Colours:  Purple<br></p>
 
-<p class="twoy">Strangers United ( London - Div. One. )<br>
+<p class="twoy">Strangers United ( London - Prem. Div. )<br>
 Secretary:  Jack Nithavrianakis<br>
 Mobile:  07741 188335  email:  jacknith@icloud.com<br>
 Ground:  Roehampton Playing Fields, Dover House Road, London, SW15 5BP<br>
-Colours:  Red/White<br></p>
+Colours:  Red<br></p>
 
-<p class="twoy">Surbiton Warriors ( Surrey - Div. One. )<br>
+<p class="twoy">Surbiton Warriors ( Surrey - Prem. Div. )<br>
 Secretary:  Rory Vassall<br>
 Mobile:  07415 633582  email:  roryvassall3@gmail.com<br>
 Ground:  Surbiton Town  Sports Centre,  River Hill Estate ,  Worcester Park Road,  KT4 7QB<br>
@@ -129,11 +129,17 @@ Mobile:  07985 364562  email:  lewblock@hotmail.co.uk<br>
 Ground:  Nursery Road Playing Field, South Wimbledon, SW19 3BT<br>
 Colours:  Red/Black<br></p>
 
-<p class="twoy">Woking    ( Surrey - Prem. Div. )                          <br>
+<p class="twoy">Timoth FC 71  ( Surrey - Prem. Div. )<br>
+Secretary:  Graeme Hodge<br>
+Mobile:  07419 122723  email:  graemeh37@hotmail.com<br>
+Ground:  St. Mary's University Sports Ground,  Broom Road,  Teddington,  TW11 9NW<br>
+Colours:  Green/Black<br></p>
+
+<!-- <p class="twoy">Woking    ( Surrey - Prem. Div. )                          <br>
 Secretary:  Shoib Qadir<br>
 Mobile:  07542 816148  email: wokingunited@gmail.com<br>
 Ground:  West Byfleet Rec. 13 Camphill, West Byfleet, KT14 6EG<br>
-Colours:  Green/Black<br></p>
+Colours:  Green/Black<br></p> -->
 
 &nbsp
 
