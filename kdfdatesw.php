@@ -121,6 +121,9 @@ font-weight: bold;
 <p class="twoy">Thursday 27th April 2023 <span style="color:#ffffff">League Junior Cup Final KO at 19:30<p>
 
 <p class="twoy">Tuesday 16th May 2023 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
+
+<p class="twoy">Saturday 20th May 2023 <span style="color:#ffffff">KDFL Presentation Night - Coombe Hill Golf Club - time TBC<p>
+
 <p class="twoy">Tuesday 13th June 2023 <span style="color:#ffffff">AGM at Imber Court at 20.00<p>
 
 
