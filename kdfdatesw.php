@@ -113,21 +113,24 @@ font-weight: bold;
 
 
 
-<p class="twoy">Friday 7th April 2023 <span style="color:#ffffff">Teck Senior Cup Final KO at 11:00<p>
-<p class="twoy">Thursday 13th April 2023 <span style="color:#ffffff">League Senior Cup Final KO at 19:30<p>
+<!-- <p class="twoy">Friday 7th April 2023 <span style="color:#ffffff">Teck Senior Cup Final KO at 11:00<p>
 
-<p class="twoy">Tuesday 18th April 2023 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
-<p class="twoy">Thursday 20th April 2023 <span style="color:#ffffff">Teck Junior Cup Final KO at 19:30<p>
-<p class="twoy">Thursday 27th April 2023 <span style="color:#ffffff">League Junior Cup Final KO at 19:30<p>
+<p class="twoy">Thursday 13th April 2023 <span style="color:#ffffff">Teck Junior Cup Final KO at 19:30<p>
 
-<p class="twoy">Tuesday 16th May 2023 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20.30<p>
+<p class="twoy">Tuesday 18th April 2023 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20:30<p>
 
-<p class="twoy">Saturday 20th May 2023 <span style="color:#ffffff">KDFL Presentation Night - Coombe Hill Golf Club - time TBC<p>
+<p class="twoy">Thursday 20th April 2023 <span style="color:#ffffff">League Junior Cup Final KO at 19:30<p>
 
-<p class="twoy">Tuesday 13th June 2023 <span style="color:#ffffff">AGM at Imber Court at 20.00<p>
+<p class="twoy">Thursday 27th April 2023 <span style="color:#ffffff">League Senior Cup Final KO at 19:30<p>
+
+<p class="twoy">Tuesday 16th May 2023 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20:30<p>
+
+<p class="twoy">Saturday 20th May 2023 <span style="color:#ffffff">KDFL Presentation Night - Coombe Wood Golf Club - time 19:30<p>
+
+<p class="twoy">Tuesday 13th June 2023 <span style="color:#ffffff">AGM at Imber Court at 20:00<p> -->
 
 
-</table>Z
+</table>
 &nbsp
 </div>
 
