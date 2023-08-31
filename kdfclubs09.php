@@ -105,11 +105,13 @@ font-weight: bold;
 
 <p class="subhead">These are the contacts at the clubs in our league</p>
 
+<!-- 
 <p class="twoy">St Martins  ( Surrey - Div. One. )<br>
 Secretary:  Connor Lasic<br>
 Mobile:  07774 071824  email:  stmartinsfc@hotmail.com<br>
 Ground:  Dundonald Rec. Dundonald Road, Wimbledon, SW19 3QH<br>
 Colours:  Purple<br></p>
+ -->
 
 <p class="twoy">Strangers United ( London - Prem. Div. )<br>
 Secretary:  Jack Nithavrianakis<br>
@@ -122,6 +124,12 @@ Secretary:  Rory Vassall<br>
 Mobile:  07415 633582  email:  roryvassall3@gmail.com<br>
 Ground:  Surbiton Town  Sports Centre,  River Hill Estate ,  Worcester Park Road,  KT4 7QB<br>
 Colours:  Blue/White<br></p>
+
+<p class="twoy">Thames United  ( Surrey - Prem. Div. )<br>
+Secretary:  Ryan Hitchin<br>
+Mobile:  07713 977792  email:  thamesunnited@outlook.com<br>
+Ground:  Goals Tolworth, Kingston Road, Worcester Park, KT5 9NT<br>
+Colours:  Gray/Black<br></p>
 
 <p class="twoy">Thornton Heath  ( Surrey - Div. One. )<br>
 Secretary:  Lew Block<br>

@@ -99,13 +99,14 @@ font-weight: bold;
         <!-- 890px is distance between red and green bars -->
 	<div id="content2" style="background-image: url(bluekings.jpg); "><h2 class="deh"></h2>
 <p class="subhead">These are the contacts at the clubs in our league</p>
-
+<!-- 
 <p class="twoy">Magpie Recruitment  ( Surrey - Prem. Div. )<br>
 Secretary:  William Dawson<br>
 Mobile:  07305 784888  email:  william@magpierecruitment.com<br>
 Ground:  Surbiton Town  Sports Centre,  River Hill Estate ,  Worcester Park Road,  KT4 7QB<br>
-Colours: Black/White<br></p>
+Colours: Black/White<br></p> -->
 
+<!-- 
 <p class="twoy">New Elm  ( Surrey - Div. One. )<br>
 Secretary:  Oliver Relf<br>
 Mobile:  07772 522245  email:  newelmfc@gmail.com <br>
@@ -122,20 +123,27 @@ Colours:  Red/Black<br></p>
 Secretary:  Steve Smith<br>
 Mobile:  07785 720353  email:  stsmith1115@gmail.com<br>
 Ground:  Memorial Ground, 22A Wood Lane, Isleworth, TW7 5ED<br>
-Colours: Red/Black      <br></p>
+Colours: Red/Black      <br></p> -->
 
 <p class="twoy">Parkside  ( Surrey - Prem. Div. )   <br>
-Secretary:  Bobby Smith<br>
-Mobile:  07725 170194  email:  parksidefc1@gmail.com<br>
+Secretary:  Jayme Caen<br>
+Mobile:  07949 796340  email:  parksidefc1@gmail.com<br>
 Ground:  Decker Sports Ground, Kingston Road, Tolworth  KT5 9NT<br>
 Colours:   Blue/White<br></p>
 
+<p class="twoy">Parkside Res. ( Surrey - Div. One )   <br>
+Secretary:  Jayme Caen<br>
+Mobile:  07949 796340  email:  parksidefc1@gmail.com<br>
+Ground:  Decker Sports Ground, Kingston Road, Tolworth  KT5 9NT<br>
+Colours:   Blue/White<br></p>
+
+<!-- 
 <p class="twoy">Riverside  ( Surrey - Div. One. )   <br>
 Secretary:  Luke Ponting<br>
 Mobile:  07399 437811  email:  lukeponting2020@outlook.com<br>
 Ground:  Hawker Centre, Lower Ham Road, Kingston upon Thames, KT2 5BH<br>
 Colours:   Sky Blue<br></p>
-
+ -->
 </table>
 &nbsp
 

@@ -117,13 +117,13 @@ Colours:  Red/White<br></p>
 
 
 
-
+<!-- 
 <p class="twoy">Dynamo Kingston  ( Surrey - Prem. Div. )<br>
 Secretary:  Alex Flinders<br>
 Mobile:   07837  798042  email:  flex_alinders@yahoo.co.uk<br>
 Ground:  Long Ditton Rec.  Windmill Lane, Long Ditton,  KT6 5JT<br>
 Colours:  Green/Black<br></p>
-
+ -->
 
 
 

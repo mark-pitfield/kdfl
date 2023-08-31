@@ -105,24 +105,27 @@ font-weight: bold;
 
 <p class="subhead">These are the contacts at the clubs in our league</p>
 
+<!-- 
 <p class="twoy">FC Porto  ( London - Div. One. )                          <br>
 Secretary:  Joshua  Lino-da Costa<br>
 Mobile:  07734 050261  email: enquiryfcpld@hotmail.com<br>
 Ground:  Barn Elms Sports Centre,  Elizabeth Walk,  SW13 0DG         <br>
 Colours:  Royal Blue/White<br></p>
+ -->
 
 
 
 
 
-
-
+<!-- 
 <p class="twoy">Hook Venturers  ( Surrey - Div. One. )             <br>
 Secretary:  Malcolm Hall<br>
 Mobile:  07885 593795  email:  malcolm985@btinternet.com<br>
 Ground:  King Edward Rec.  226 Hook Road,  Chessington, Surrey KT9 1PL       <br>
 Colours:  Maroon<br></p>
+ -->
 
+ 
 <p class="twoy">Junction Elite  ( Amateur Football Alliance - Div. One. )             <br>
 Secretary:  Jasmine Turley<br>
 Mobile:  07537 100870  email: secretary@junctionelite.org <br>
