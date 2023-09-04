@@ -107,10 +107,17 @@ font-weight: bold;
 <p class="subhead">These are the contacts at the clubs in our league</p>
 
 
+<p class="twoy">Barnes FC  ( Surrey - Div. One. )<br>
+Secretary:  Julie Burgess<br>
+Mobile:  07897 506524  email:  secretary@barnesfootballclub.co.uk<br>
+Ground:    Barn Elm Sports Centre, Queen Elizabeth Walk, SW13 0DG<br>
+Colours:  Royal Blue/ White<br></p>
+
+
 
 <p class="twoy">Barnslake  ( Surrey - Prem. Div. )<br>
-Secretary:  Denis Holley<br>
-Mobile:  07305 897307  email:  denisholley@blueyonder.co.uk<br>
+Secretary:  Mike Ashton<br>
+Mobile:  N/A  email:  mashton93@outlook.com<br>
 Ground:    King George’s Field, Ham Street, Richmond, TW10 7RS<br>
 Colours:  Red/White<br></p>
 

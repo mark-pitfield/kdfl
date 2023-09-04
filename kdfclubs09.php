@@ -127,9 +127,9 @@ Colours:  Blue/White<br></p>
 
 <p class="twoy">Thames United  ( Surrey - Prem. Div. )<br>
 Secretary:  Ryan Hitchin<br>
-Mobile:  07713 977792  email:  thamesunnited@outlook.com<br>
+Mobile:  07713 977792  email:  thamesunited@outlook.com<br>
 Ground:  Goals Tolworth, Kingston Road, Worcester Park, KT5 9NT<br>
-Colours:  Gray/Black<br></p>
+Colours:  Grey/Black<br></p>
 
 <p class="twoy">Thornton Heath  ( Surrey - Div. One. )<br>
 Secretary:  Lew Block<br>

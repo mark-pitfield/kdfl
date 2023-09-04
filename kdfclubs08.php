@@ -125,6 +125,13 @@ Mobile:  07785 720353  email:  stsmith1115@gmail.com<br>
 Ground:  Memorial Ground, 22A Wood Lane, Isleworth, TW7 5ED<br>
 Colours: Red/Black      <br></p> -->
 
+<p class="twoy">NPL  ( Surrey - Div. One. )<br>
+Secretary:  David Conway<br>
+Mobile:  07815 580927  email:  DC.NPL@outlook.com<br>
+Ground:  Bushey Park Sports Club, Pavillion Road, Queens Road, Teddington, TW11 0EL<br>
+Colours: Yellow<br></p>
+
+
 <p class="twoy">Parkside  ( Surrey - Prem. Div. )   <br>
 Secretary:  Jayme Caen<br>
 Mobile:  07949 796340  email:  parksidefc1@gmail.com<br>

@@ -126,11 +126,18 @@ Colours:  Maroon<br></p>
  -->
 
  
-<p class="twoy">Junction Elite  ( Amateur Football Alliance - Div. One. )             <br>
-Secretary:  Jasmine Turley<br>
-Mobile:  07537 100870  email: secretary@junctionelite.org <br>
+<p class="twoy">Junction Elite  ( Surrey - Div. One. )             <br>
+Secretary:  Aaron Stocker<br>
+Mobile:  07427 794967  email:  aaronstocker@junctionelite.org <br>
 Ground:  Wimbledon Common Extensions, Robin Hood Way, SW15 3PQ <br>
 Colours:  Royal Blue<br></p>
+
+<p class="twoy">Kingston University ( Surrey - Div. One. )  <br>
+Secretary:  Luca Bailey<br>
+Mobile: 07752 700695  email:  luca.bailey@icloud.com <br>
+Ground:  Tolworth Court, Old Kingston Road, Tolworth  KT4 7QH<br>
+Colours:  Navy Blue<br></p>
+
 </table>
 
 &nbsp
