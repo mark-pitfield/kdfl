@@ -125,6 +125,11 @@ Ground:  King Edward Rec.  226 Hook Road,  Chessington, Surrey KT9 1PL       <br
 Colours:  Maroon<br></p>
  -->
 
+<p class="twoy">GTL United  ( Surrey - Div. One. )             <br>
+Secretary:  Jamal Joseph<br>
+Mobile:  07460 448744  email:  jjoseph1990@outlook.com     <br>
+Ground:  Royal Holloway Sports Centre, Prune Hill, Egham, TW20 9TR <br>
+Colours:  Black<br></p>
  
 <p class="twoy">Junction Elite  ( Amateur Football Alliance  Premier  Div. )             <br>
 Secretary:  Aaron Stocker<br>
