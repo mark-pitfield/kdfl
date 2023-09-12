@@ -117,7 +117,7 @@ Colours:  Royal Blue/ White<br></p>
 
 <p class="twoy">Barnslake  ( Surrey - Prem. Div. )<br>
 Secretary:  Mike Ashton<br>
-Mobile:  N/A  email:  mashton93@outlook.com<br>
+Mobile:  07971 291225  email:  mashton93@outlook.com<br>
 Ground:    King George’s Field, Ham Street, Richmond, TW10 7RS<br>
 Colours:  Red/White<br></p>
 

@@ -135,13 +135,13 @@ Colours: Yellow<br></p>
 <p class="twoy">Parkside  ( Surrey - Prem. Div. )   <br>
 Secretary:  Jayme Caen<br>
 Mobile:  07949 796340  email:  parksidefc1@gmail.com<br>
-Ground:  Decker Sports Ground, Kingston Road, Tolworth  KT5 9NT<br>
+Ground:  Goals Tolworth, Kingston Road, Worcester Park KT5 9NT<br>
 Colours:   Blue/White<br></p>
 
 <p class="twoy">Parkside Res. ( Surrey - Div. One )   <br>
 Secretary:  Jayme Caen<br>
 Mobile:  07949 796340  email:  parksidefc1@gmail.com<br>
-Ground:  Decker Sports Ground, Kingston Road, Tolworth  KT5 9NT<br>
+Ground:  Goals Tolworth, Kingston Road, Worcester Park KT5 9NT<br>
 Colours:   Blue/White<br></p>
 
 <!-- 

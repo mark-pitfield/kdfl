@@ -126,10 +126,10 @@ Colours:  Maroon<br></p>
  -->
 
  
-<p class="twoy">Junction Elite  ( Surrey - Div. One. )             <br>
+<p class="twoy">Junction Elite  ( Amateur Football Alliance  Premier  Div. )             <br>
 Secretary:  Aaron Stocker<br>
 Mobile:  07427 794967  email:  aaronstocker@junctionelite.org <br>
-Ground:  Wimbledon Common Extensions, Robin Hood Way, SW15 3PQ <br>
+Ground:  Prince George's Playing Fields,  Raynes Park,  SW20 9DY <br>
 Colours:  Royal Blue<br></p>
 
 <p class="twoy">Kingston University ( Surrey - Div. One. )  <br>

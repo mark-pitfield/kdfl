@@ -131,16 +131,16 @@ Mobile:  07713 977792  email:  thamesunited@outlook.com<br>
 Ground:  Goals Tolworth, Kingston Road, Worcester Park, KT5 9NT<br>
 Colours:  Grey/Black<br></p>
 
-<p class="twoy">Thornton Heath  ( Surrey - Div. One. )<br>
+<p class="twoy">Thornton Heath  ( Surrey - Prem. One. )<br>
 Secretary:  Lew Block<br>
 Mobile:  07985 364562  email:  lewblock@hotmail.co.uk<br>
 Ground:  Nursery Road Playing Field, South Wimbledon, SW19 3BT<br>
-Colours:  Red/Black<br></p>
+Colours:  White/Black<br></p>
 
 <p class="twoy">Timoth FC 71  ( Surrey - Prem. Div. )<br>
 Secretary:  Graeme Hodge<br>
 Mobile:  07419 122723  email:  graemeh37@hotmail.com<br>
-Ground:  St. Mary's University Sports Ground,  Broom Road,  Teddington,  TW11 9NW<br>
+Ground:  St. Mary's University Sports Ground,  Broom Road,  Teddington,  TW11 9BE<br>
 Colours:  Green/Black<br></p>
 
 <!-- <p class="twoy">Woking    ( Surrey - Prem. Div. )                          <br>
