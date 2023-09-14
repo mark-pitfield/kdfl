@@ -130,7 +130,7 @@ font-weight: bold;
 <p class="twoy">Tuesday 19th September 2023 <span style="color:#ffffff">AGM/General Meeting at Imber Court Sports Club,  Ember Lane,  East Molesey, KT8 0BT - 20:00<p> 
 <p class="twoy">Tuesday 20th Febuary 2024 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20:30<p>
 <p class="twoy">Tuesday 16th April 2024 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20:30<p>
-<p class="twoy">Tuesday 18th June 2024 <span style="color:#ffffff">AGM at Imber Court at 20:30<p>
+<p class="twoy">Tuesday 18th June 2024 <span style="color:#ffffff">AGM at Imber Court at 20:00<p>
 
 </br>
 </br>

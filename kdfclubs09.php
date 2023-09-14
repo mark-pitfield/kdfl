@@ -131,7 +131,7 @@ Mobile:  07713 977792  email:  thamesunited@outlook.com<br>
 Ground:  Goals Tolworth, Kingston Road, Worcester Park, KT5 9NT<br>
 Colours:  Grey/Black<br></p>
 
-<p class="twoy">Thornton Heath  ( Surrey - Prem. One. )<br>
+<p class="twoy">Thornton Heath  ( Surrey - Prem. Div. )<br>
 Secretary:  Lew Block<br>
 Mobile:  07985 364562  email:  lewblock@hotmail.co.uk<br>
 Ground:  Nursery Road Playing Field, South Wimbledon, SW19 3BT<br>
