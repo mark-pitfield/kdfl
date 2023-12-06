@@ -116,7 +116,7 @@ Colours:  Purple<br></p>
 <p class="twoy">Strangers United ( London - Prem. Div. )<br>
 Secretary:  Jack Nithavrianakis<br>
 Mobile:  07741 188335  email:  jacknith@icloud.com<br>
-Ground:  Roehampton Playing Fields, Dover House Road, London, SW15 5BP<br>
+Ground:  Barn Elms, Sports Centre, Queen Elizabeth Walk, SW13 0DG<br>
 Colours:  Red<br></p>
 
 <p class="twoy">Surbiton Warriors ( Surrey - Prem. Div. )<br>

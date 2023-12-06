@@ -132,8 +132,8 @@ Ground:  Royal Holloway Sports Centre, Prune Hill, Egham, TW20 9TR <br>
 Colours:  Black<br></p>
  
 <p class="twoy">Junction Elite  ( Amateur Football Alliance  Premier  Div. )             <br>
-Secretary:  Aaron Stocker<br>
-Mobile:  07427 794967  email:  aaronstocker@junctionelite.org <br>
+Secretary:  Jasmine Turley<br>
+Mobile:  07557 100870  email:  secretary@junctionelite.org <br>
 Ground:  Prince George's Playing Fields,  Raynes Park,  SW20 9DY <br>
 Colours:  Royal Blue<br></p>
 

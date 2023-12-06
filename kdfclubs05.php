@@ -107,7 +107,7 @@ font-weight: bold;
 <p class="subhead">These are the contacts at the clubs in our league</p>
 
 
-<p class="twoy">Barnes FC  ( Surrey - Div. One. )<br>
+<p class="twoy">Barnes FC  ( Surrey - Prem. Div. )<br>
 Secretary:  Julie Burgess<br>
 Mobile:  07897 506524  email:  secretary@barnesfootballclub.co.uk<br>
 Ground:    Barn Elm Sports Centre, Queen Elizabeth Walk, SW13 0DG<br>
