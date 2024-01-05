@@ -115,7 +115,7 @@ font-weight: bold;
 
 <p class="two">&nbsp</p>
 
-
+<!-- 
 	
       <P class="two">This is the official site of the Kingston & District Football League, which is affiliated to the Surrey County Football Association. Our clubs come from, and matches are played in, an area which covers much of South West London and Surrey. The league consists of two divisions, each with up to twelve teams in each. There are also four cup competitions - two for the teams in the top half of the league and two for the teams in the lower half. Added to this will be a cup competition provided by your affiliated County.</br></p> 
 
@@ -128,7 +128,48 @@ font-weight: bold;
 
 <p class="two">The other website links on our Home page will take you to the external websites operated by the main Football authorities
 in our immediate area who have a direct connection with the KDFL. KDFL are not responsible for the content on the external sites.</p>
+ -->
 
+<p class="two">
+	Welcome to the Kingston and District Football League (KDFL) affiliated to the <a href="http://www.surreyfa.com/" target="_blank">Surrey County FA</a>.
+</p>
+<p class="two">
+	The KDFL  provides football for amateur teams on a Saturday afternoon, and is one of the oldest Leagues in England having celebrated 125
+years in 2021.
+</p>
+<p class="two">
+	The League is an integral part of the Surrey Saturday Pyramid providing a pathway from Development for under 21 teams though to
+Junior and Intermediate levels Tier 3 and Tier 2 with the opportunity to progress automatically to the Surrey Premier Tier 1 through
+promotion.
+</p>
+
+<p class="two">
+	By providing football for all participating teams throughout three levels to Senior status the KDFL is set up in an exclusive format to develop all Clubs 
+whatever their ambitions, and to do this in a seamless way.
+</p>
+
+<p class="two">
+	The KDFL provides football in the localities of North East Surrey and surrounding areas with the aim of the Surrey Pyramid to keep 
+opposition close and reduce travelling as much as possible.
+</p>
+
+<p class="two">
+	The League has been sanctioned to offer Cup Competitions for all three levels of football, and our finals are held under lights annually
+at local venues with gated and terraced accommodation. The Teck Charity Cups are our oldest Cup competitions originating from 1912
+and bestowed on us by a member of the royal family.
+</p>
+
+<p class="two">
+	Membership of the Surrey Pyramid and the KDFL is an important step for local football. Now a young team of 18 year olds having outgrown  the youth teams
+can join the KDFL  and progress at its own pace within the Development Divisions. Junior and Intermediate Clubs have their own Divisions with
+continuing promotion options which includes the Surrey Premier.
+</p>
+
+<p class="two">
+	The purpose of the KDFL is to accommodate all Saturday football teams at whatever level they want. 
+If you wish to join us please contact the League Secretary Mike Hallett, or alternatively any of the League Officers listed on 
+this website where full contact details are available.
+</p>
 </table>
 
 

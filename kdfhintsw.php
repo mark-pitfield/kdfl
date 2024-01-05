@@ -109,10 +109,6 @@ font-weight: bold;
 
 <p class="two">The league's bank account name is: "Kingston & District Football League" and is held at Barclays Bank.
 </p>
-
-<p class="two">The Sort Code is: <strong>20-46-73</strong> and the Account Number is: <strong>80564036</strong>.
-</p>
-
 <p class="two">Use your club's name as a reference.
 </p>
 
