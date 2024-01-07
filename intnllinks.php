@@ -120,7 +120,7 @@ tagl:
 
 
 
-if ($intlink==$onethree) {goto tagn;}
+/* if ($intlink==$onethree) {goto tagn;}
 ?>
 <html>
 <div class="cssbutton">
@@ -128,7 +128,7 @@ if ($intlink==$onethree) {goto tagn;}
 </div>
 </html>
 <?php
-tagn:
+tagn: */
 
 if ($intlink==$onefour) {goto tago;}
 ?>
