@@ -130,16 +130,16 @@ font-weight: bold;
 
 
 <p class="twoy">Good Friday 29th March 2024 <span style="color:#ffffff">Teck Senior Cup Final KO at 11:00 at Cobham FC<p>
-<p class="twoy">Tuesday 9th April 2024 <span style="color:#ffffff">Cup Competition to be decided<p>
+<p class="twoy">Tuesday 9th April 2024 <span style="color:#ffffff">League Senior Cup KO at 19:30 at Cobham<p>
 <p class="twoy">Tuesday 16th April 2024 <span style="color:#ffffff">General Meeting for all clubs at Imber Court at 20:30<p>
-<p class="twoy">Tuesday 23rd April 2024 <span style="color:#ffffff">Cup Competition to be decided<p>
-<p class="twoy">Tuesday 30th April 2024 <span style="color:#ffffff">Cup Competition to be decided<p>
+<p class="twoy">Tuesday 23rd April 2024 <span style="color:#ffffff">League Junior Cup KO at 19:30 at Cobham<p>
+<p class="twoy">Tuesday 30th April 2024 <span style="color:#ffffff">Teck Junior Cup KO at 19:30 at Cobham<p>
 <p class="twoy">Friday 24th May 2024 <span style="color:#ffffff">KDFL Presentation Night - Coombe Wood Golf Club - time 19:30<p>
 <p class="twoy">Tuesday 18th June 2024 <span style="color:#ffffff">AGM at Imber Court at 20:00<p>
 
 </br>
 </br>
-<p class="twoy">It is madatory for all clubs to be represented for General meetings <span style="color:#ffffff"><p>
+<p class="twoy">It is mandatory for all clubs to be represented for General meetings <span style="color:#ffffff"><p>
 
 </table>
 &nbsp
